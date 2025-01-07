@@ -275,36 +275,7 @@
         "COD SAP": 1127553,
         "quantidades permitidas": 1
     },
-    {
-        "TIPO": "CAMISA",
-        "DESCRIÇÃO": "CAMISA BRIGADA P",
-        "COD SAP": 1143241,
-        "quantidades permitidas": 2
-    },
-    {
-        "TIPO": "CAMISA",
-        "DESCRIÇÃO": "CAMISA BRIGADA M",
-        "COD SAP": 1143242,
-        "quantidades permitidas": 2
-    },
-    {
-        "TIPO": "CAMISA",
-        "DESCRIÇÃO": "CAMISA BRIGADA G",
-        "COD SAP": 1143243,
-        "quantidades permitidas": 2
-    },
-    {
-        "TIPO": "CAMISA",
-        "DESCRIÇÃO": "CAMISA BRIGADA GG",
-        "COD SAP": 1143244,
-        "quantidades permitidas": 2
-    },
-    {
-        "TIPO": "CAMISA",
-        "DESCRIÇÃO": "CAMISA BRIGADA EGG",
-        "COD SAP": 1143245,
-        "quantidades permitidas": 2
-    },
+
     {
         "TIPO": "CAMISA",
         "DESCRIÇÃO": "CAMISA UNIFORME PP",
