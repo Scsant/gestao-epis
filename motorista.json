@@ -7271,5 +7271,187 @@
         "Matrícula": 11111111.0,
         "Função": "Motorista",
         "Nome": "ANTONIO CARLOS DE ALMEIDA"
-    }
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF1",
+        "Maticula": 37000607,
+        "Função": "Técnico",
+        "Nome": "Reinaldo Romano"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF1",
+        "Maticula": 37015145,
+        "Função": "Técnico",
+        "Nome": "Tiago Henrique Vieira Ribeiro"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF1",
+        "Maticula": 37008092,
+        "Função": "Técnico",
+        "Nome": "Alex Sandro Stalone Dos Santos"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF2",
+        "Maticula": 37013460,
+        "Função": "Técnico",
+        "Nome": "Felipe Proenca De Camargo"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF2",
+        "Maticula": 37007165,
+        "Função": "Técnico",
+        "Nome": "Marcos Aparecido Domingues do Nascimento"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF3",
+        "Maticula": 37005677,
+        "Função": "Técnico",
+        "Nome": "Fabricio Rodrigues Pontes"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF3",
+        "Maticula": 37006648,
+        "Função": "Técnico",
+        "Nome": "Edison Francisco Leite"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF3",
+        "Maticula": 37007696,
+        "Função": "Técnico",
+        "Nome": "Marcos Aurelio Montesso"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF4",
+        "Maticula": 37000622,
+        "Função": "Técnico",
+        "Nome": "Paulo Natalino Boaventura"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF4",
+        "Maticula": 37005802,
+        "Função": "Técnico",
+        "Nome": "Alex Aparecido Mendes"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF4",
+        "Maticula": 37007262,
+        "Função": "Técnico",
+        "Nome": "Daniel Benedito Falco"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF5",
+        "Maticula": 37006558,
+        "Função": "Técnico",
+        "Nome": "Jose Amarildo Machado"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF5",
+        "Maticula": 37010461,
+        "Função": "Técnico",
+        "Nome": "Francisco Antonio Franco"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF5",
+        "Maticula": 37010467,
+        "Função": "Técnico",
+        "Nome": "Ricardo Aparecido da Silva"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF6",
+        "Maticula": 37004384,
+        "Função": "Técnico",
+        "Nome": "Jeferson Tereza"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF6",
+        "Maticula": 37009194,
+        "Função": "Técnico",
+        "Nome": "Eliseu Aparecido Silva"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF6",
+        "Maticula": 37007290,
+        "Função": "Técnico",
+        "Nome": "Nilton Carlos Marciano"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Maticula": 37015586,
+        "Função": "Técnico",
+        "Nome": "Vanclei Dias de Souza"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Maticula": 37017555,
+        "Função": "Técnico",
+        "Nome": "Halan Da Silva Batista"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Maticula": 37017558,
+        "Função": "Técnico",
+        "Nome": "Luiz Carlos Bernine"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF8",
+        "Maticula": 37014393,
+        "Função": "Técnico",
+        "Nome": "Ronaldo dos Santos Lopes"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF8",
+        "Maticula": 37012257,
+        "Função": "Técnico",
+        "Nome": "Alexandry Borges Freitas"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF8",
+        "Maticula": 37013510,
+        "Função": "Técnico",
+        "Nome": "Cleiton Migliorini"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "Troca de turno SP",
+        "Maticula": 37016633,
+        "Função": "Técnico",
+        "Nome": "Amaury Mendes de Assis"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "Troca de turno SP",
+        "Maticula": 37018881,
+        "Função": "Técnico",
+        "Nome": "Leandro Oliveira Costa"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF2",
+        "Maticula": 37010183,
+        "Função": "Técnico",
+        "Nome": "Marcelo Chargas da Silva"
+    }    
 ]
