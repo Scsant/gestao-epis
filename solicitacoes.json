@@ -5,9 +5,20 @@
         "Função": "Motorista",
         "Frota": "Frota Leste",
         "Matrícula": "37019316",
-        "Tipo": "CALÇA MASCULINA, CAMISA",
-        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA BRIGADA GG",
-        "Quantidade": "1, 2",
-        "Código SAP": "1143232, 1143244"
+        "Tipo": "CALÇA FEMININA, CAMISA, OCULOS",
+        "Descrição": "CALÇA FEMININA Nº 44, CAMISA UNIFORME GG, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1143275, 1143270, 1144814"
+    },
+    {
+        "Nome": "Andre signorelli",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019316",
+        "Tipo": "CALÇA FEMININA, EPI",
+        "Descrição": "CALÇA FEMININA Nº 42, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1143274, 1141560"
     }
 ]
