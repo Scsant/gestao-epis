@@ -7461,7 +7461,6 @@
         "Função": "Técnico",
         "Nome": "Sócrates Luiz dos Santos"
     },
-
     {
         "Frota": "Frota Leste",
         "Equipe": "BTF4",
@@ -14916,8 +14915,12 @@
         "Matrícula": 37010183,
         "Função": "Técnico",
         "Nome": "Marcelo Chargas da Silva"
+    },
+    {
+        "Frota": "Troca de Turno",
+        "Equipe": "Troca de Turno",
+        "Matrícula": 37013027.0,
+        "Função": "Técnico",
+        "Nome": "Wesley Maruchi "
     }
-
-
-
 ]
