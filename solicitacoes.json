@@ -14922,5 +14922,16 @@
         "Matrícula": 37013027.0,
         "Função": "Técnico",
         "Nome": "Wesley Maruchi "
+    },
+    {
+        "Nome": "Wesley Maruchi ",
+        "Equipe (BTF)": "Troca de Turno",
+        "Função": "Técnico",
+        "Frota": "Troca de Turno",
+        "Matrícula": "37013027",
+        "Tipo": "CAMISA, OUTROS",
+        "Descrição": "CAMISA UNIFORME M, GARRAFAO TERMICO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143248, 1130122"
     }
 ]
