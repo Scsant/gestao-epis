@@ -1,12 +1,10 @@
 import streamlit as st
 import pandas as pd
-from st_aggrid import AgGrid, GridOptionsBuilder, DataReturnMode, GridUpdateMode
 import json
 from io import BytesIO
 from datetime import datetime
 from openpyxl import Workbook
 import os
-from PIL import Image
 import streamlit as st
 from github import Github
 from dotenv import load_dotenv
