@@ -86,5 +86,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME G, OCULOS POLICARBONATO SOLUS 1000, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46",
         "Quantidade": "1, 1, 1, 2, 2",
         "Código SAP": "1139804, 1143249, 1137601, 1143249, 1143233"
+    },
+    {
+        "Nome": "Roberto De Arcanjo Junior",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015898",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
