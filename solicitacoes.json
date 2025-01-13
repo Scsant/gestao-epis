@@ -42,5 +42,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "LEANDRO PUERTA GIANFILICI",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37009371",
+        "Tipo": "PALMILHA, CAMISA, CAMISA",
+        "Descrição": "PALMILHA 41, CAMISA UNIFORME EGG, CAMISA UNIFORME EGG",
+        "Quantidade": "1, 1, 2",
+        "Código SAP": "1127547, 1143271, 1143271"
     }
 ]
