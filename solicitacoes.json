@@ -53,5 +53,16 @@
         "Descrição": "PALMILHA 41, CAMISA UNIFORME EGG, CAMISA UNIFORME EGG",
         "Quantidade": "1, 1, 2",
         "Código SAP": "1127547, 1143271, 1143271"
+    },
+    {
+        "Nome": "LUCAS RUEDA DOS SANTOS",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006793",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 52, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143236, 1143249"
     }
 ]
