@@ -152,5 +152,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143231, 1143248, 1141560"
+    },
+    {
+        "Nome": "HERMINIO JOSE MIRALHA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008920",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
