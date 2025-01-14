@@ -196,5 +196,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "Vanderlei Suptil da Silva",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015779",
+        "Tipo": "CALÇA MASCULINA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 58, BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143239, 1139804"
     }
 ]
