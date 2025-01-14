@@ -218,5 +218,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "SIDNEY APARECIDO MUNHOZ",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014718",
+        "Tipo": "CAMISA, EPI",
+        "Descrição": "CAMISA UNIFORME G, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143249, 1103176"
     }
 ]
