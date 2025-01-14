@@ -207,5 +207,16 @@
         "Descrição": "CALÇA MASCULINA Nº 58, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "2, 1",
         "Código SAP": "1143239, 1139804"
+    },
+    {
+        "Nome": "Jorge Henrique Cabral Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019510",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
