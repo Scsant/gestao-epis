@@ -262,5 +262,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "JORGE DE SOUZA BEZERRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008014",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME EGG",
+        "Quantidade": "2",
+        "Código SAP": "1143271"
     }
 ]
