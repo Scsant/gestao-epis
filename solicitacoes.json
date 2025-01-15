@@ -284,5 +284,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "1",
         "Código SAP": "1139806"
+    },
+    {
+        "Nome": "JORGE DE SOUZA BEZERRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008014",
+        "Tipo": "OUTROS",
+        "Descrição": "GARRAFAO TERMICO",
+        "Quantidade": "1",
+        "Código SAP": "1130122"
     }
 ]
