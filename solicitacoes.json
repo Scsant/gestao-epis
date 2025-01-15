@@ -251,5 +251,16 @@
         "Descrição": "OCULOS ESPELHADO AERO, CALÇA MASCULINA Nº 44, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1144814, 1143232, 1143270, 1139804"
+    },
+    {
+        "Nome": "Adenilson Jose Jana",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014729",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
