@@ -372,5 +372,16 @@
         "Descrição": "CAPUZ FUGA ABELHAS",
         "Quantidade": "1",
         "Código SAP": "1140365"
+    },
+    {
+        "Nome": "ODAIR CORDEIRO DE OLIVEIRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009423",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO, OUTROS, EPI, EPI",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 38, PORTA FERRAMENTA COR 016 ROYAL 01467, CAPACETE SEGURANCA BRANCO, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1, 1, 1, 1",
+        "Código SAP": "1143248, 1143232, 1139800, 1141461, 1141560, 1103176"
     }
 ]
