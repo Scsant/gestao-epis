@@ -317,5 +317,16 @@
         "Descrição": "CAMISA UNIFORME EGG, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1",
         "Código SAP": "1143271, 1103176"
+    },
+    {
+        "Nome": "Marcos Leite",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016354",
+        "Tipo": "OUTROS, OCULOS, CALÇADO, PALMILHA, CAMISA, CALÇA MASCULINA",
+        "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, OCULOS POLICARBONATO SOLUS 1000, BOTINA DE SEGURANÇA PRETO 42, PALMILHA 42, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 44",
+        "Quantidade": "1, 1, 1, 1, 2, 1",
+        "Código SAP": "1141461, 1137601, 1139804, 1127545, 1143270, 1143232"
     }
 ]
