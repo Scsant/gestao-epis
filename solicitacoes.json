@@ -361,5 +361,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1, 1",
         "Código SAP": "1141461, 1141560"
+    },
+    {
+        "Nome": "Adealdo Cruz",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017662",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "CAPUZ FUGA ABELHAS",
+        "Quantidade": "1",
+        "Código SAP": "1140365"
     }
 ]
