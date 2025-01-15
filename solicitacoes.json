@@ -383,5 +383,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 38, PORTA FERRAMENTA COR 016 ROYAL 01467, CAPACETE SEGURANCA BRANCO, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143248, 1143232, 1139800, 1141461, 1141560, 1103176"
+    },
+    {
+        "Nome": "Luiz Marques Da Silva",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019568",
+        "Tipo": "CAMISA, CALÇADO, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME P, BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 40",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143247, 1139803, 1143281"
     }
 ]
