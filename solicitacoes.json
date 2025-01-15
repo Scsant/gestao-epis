@@ -306,5 +306,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "DANILO JOSE BARBIRATO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008008",
+        "Tipo": "CAMISA, EPI",
+        "Descrição": "CAMISA UNIFORME EGG, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143271, 1103176"
     }
 ]
