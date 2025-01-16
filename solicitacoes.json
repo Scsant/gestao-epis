@@ -394,5 +394,16 @@
         "Descrição": "CAMISA UNIFORME P, BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 40",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143247, 1139803, 1143281"
+    },
+    {
+        "Nome": "ODAIR ROGERIO DE SOUZA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009513",
+        "Tipo": "COSMETICOS, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1154912"
     }
 ]
