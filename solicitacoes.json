@@ -460,5 +460,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 46, PORTA FERRAMENTA COR 016 ROYAL 01467, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143248, 1143233, 1141461, 1114370"
+    },
+    {
+        "Nome": "Luis Augusto Batista",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015174",
+        "Tipo": "EPI, CALÇA MASCULINA, CAMISA, EPI, CALÇADO, PALMILHA",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA, CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, PERNEIRA, BOTINA DE SEGURANÇA PRETO 39, PALMILHA 39 ",
+        "Quantidade": "1, 2, 2, 1, 1, 1",
+        "Código SAP": "1103375, 1143232, 1143248, 1116791, 1139801, 1127557"
     }
 ]
