@@ -416,5 +416,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CALÇA MASCULINA Nº 44",
         "Quantidade": "1, 2",
         "Código SAP": "1139801, 1143232"
+    },
+    {
+        "Nome": "JOSE CARLOS CAMILO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008813",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO, OCULOS",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 41, OCULOS POLICARBONATO SOLUS 1000",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143248, 1143233, 1139803, 1137601"
     }
 ]
