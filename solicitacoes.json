@@ -471,5 +471,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA, CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, PERNEIRA, BOTINA DE SEGURANÇA PRETO 39, PALMILHA 39 ",
         "Quantidade": "1, 2, 2, 1, 1, 1",
         "Código SAP": "1103375, 1143232, 1143248, 1116791, 1139801, 1127557"
+    },
+    {
+        "Nome": "DANNER PORTO CIOCCA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007107",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, PALMILHA, EPC",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 39, PALMILHA 39 , MARMITA ELETRICA 12V",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143233, 1143248, 1139801, 1127557, 1292725"
     }
 ]
