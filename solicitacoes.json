@@ -427,5 +427,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 41, OCULOS POLICARBONATO SOLUS 1000",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143248, 1143233, 1139803, 1137601"
+    },
+    {
+        "Nome": "Eider Cesar Costa Soares",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014970",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
