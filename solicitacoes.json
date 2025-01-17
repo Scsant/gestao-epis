@@ -493,5 +493,16 @@
         "Descrição": "CAMISA UNIFORME EGG, CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 56",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1143271, 1143271, 1143238"
+    },
+    {
+        "Nome": "Luis Gustavo Boato",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014758",
+        "Tipo": "CAMISA, CALÇADO, COSMETICOS, COSMETICOS, OUTROS",
+        "Descrição": "CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CREME PROTECAO NUTRIEX II (RISCO QUIMICO), GARRAFAO TERMICO",
+        "Quantidade": "2, 1, 1, 1, 1",
+        "Código SAP": "1143249, 1139803, 1114370, 1121654, 1130122"
     }
 ]
