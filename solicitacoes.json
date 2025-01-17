@@ -570,5 +570,16 @@
         "Descrição": "CALÇA MASCULINA Nº 56, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143238, 1143270, 1139803"
+    },
+    {
+        "Nome": "JOSE ROBERTO DE LIMA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009368",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1",
+        "Código SAP": "1139804"
     }
 ]
