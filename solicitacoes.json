@@ -559,5 +559,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41, PROTETOR AURICULAR CONCHA",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143232, 1139803, 1108360"
+    },
+    {
+        "Nome": "EDUARDO MAXIMO ALVES",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019973",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 56, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143238, 1143270, 1139803"
     }
 ]
