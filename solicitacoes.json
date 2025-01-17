@@ -482,5 +482,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 39, PALMILHA 39 , MARMITA ELETRICA 12V",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143233, 1143248, 1139801, 1127557, 1292725"
+    },
+    {
+        "Nome": "Keber Antonio Cruz Ferreira",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018013",
+        "Tipo": "CAMISA, CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME EGG, CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 56",
+        "Quantidade": "1, 2, 2",
+        "Código SAP": "1143271, 1143271, 1143238"
     }
 ]
