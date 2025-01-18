@@ -636,5 +636,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "NILTON APARECIDO SILVA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008859",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, CAMISA, EPI, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 2, 2, 1, 1",
+        "Código SAP": "1139802, 1143231, 1143248, 1154912, 1103176"
     }
 ]
