@@ -658,5 +658,16 @@
         "Descrição": "MARMITA TERMICA, BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48",
         "Quantidade": "1, 1, 2, 2",
         "Código SAP": "3522519, 1139804, 1143270, 1143234"
+    },
+    {
+        "Nome": "LUIZ CARLOS DIAS",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018008",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
