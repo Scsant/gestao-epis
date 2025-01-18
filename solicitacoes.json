@@ -713,5 +713,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1",
         "Código SAP": "1103375"
+    },
+    {
+        "Nome": "Helton Fernando Rodrigues",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37016457",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "1",
+        "Código SAP": "1111086"
     }
 ]
