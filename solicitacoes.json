@@ -5,10 +5,10 @@
         "Função": "Motorista",
         "Frota": "Frota Leste",
         "Matrícula": "37000918",
-        "Tipo": "PALMILHA, CALÇA MASCULINA, CALÇA MASCULINA, CALÇADO, COSMETICOS, EPI, PROTETOR",
-        "Descrição": "PALMILHA 43, CALÇA MASCULINA Nº 50, CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 42, CREME PROTECAO NUTRIEX II (RISCO QUIMICO), LUVA SEGURANCA VAQUETA UNICO, PROTETOR PERNA PERNEIRA COURO",
-        "Quantidade": "1, 1, 2, 1, 1, 1, 1",
-        "Código SAP": "1127555, 1143235, 1143235, 1139804, 1121654, 1103176, 1116791"
+        "Tipo": "PALMILHA, CALÇA MASCULINA, CALÇADO, COSMETICOS, EPI, PROTETOR",
+        "Descrição": "PALMILHA 43, CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 42, CREME PROTECAO NUTRIEX II (RISCO QUIMICO), LUVA SEGURANCA VAQUETA UNICO, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1, 2, 1, 1, 1",
+        "Código SAP": "1127555, 1143235, 1139804, 1121654, 1103176, 1116791"
     },
     {
         "Nome": "CLODOALDO JORGE DO PRADO",
@@ -49,10 +49,10 @@
         "Função": "Motorista",
         "Frota": "Frota Oeste",
         "Matrícula": "37009371",
-        "Tipo": "PALMILHA, CAMISA, CAMISA",
-        "Descrição": "PALMILHA 41, CAMISA UNIFORME EGG, CAMISA UNIFORME EGG",
-        "Quantidade": "1, 1, 2",
-        "Código SAP": "1127547, 1143271, 1143271"
+        "Tipo": "PALMILHA, CAMISA",
+        "Descrição": "PALMILHA 41, CAMISA UNIFORME EGG",
+        "Quantidade": "1, 2",
+        "Código SAP": "1127547, 1143271"
     },
     {
         "Nome": "LUCAS RUEDA DOS SANTOS",
