@@ -757,5 +757,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME M",
         "Quantidade": "1, 2",
         "Código SAP": "1139802, 1143248"
+    },
+    {
+        "Nome": "JOAO BIRIBILE NETO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008989",
+        "Tipo": "EPI, EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1141560, 1154912"
     }
 ]
