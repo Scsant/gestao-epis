@@ -768,5 +768,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1",
         "Código SAP": "1141560, 1154912"
+    },
+    {
+        "Nome": "Washington Paes Guimaraes",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013882",
+        "Tipo": "COSMETICOS, OUTROS, EPI, OCULOS, CALÇADO, CAMISA, CALÇA MASCULINA, EPC, EPI, PROTETOR",
+        "Descrição": "CREME PROTECAO NUTRIEX II (RISCO QUIMICO), GARRAFAO TERMICO, LUVA SEGURANCA VAQUETA UNICO, OCULOS ESPELHADO AERO, BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME G, CALÇA MASCULINA Nº 44, MARMITA ELETRICA 12V, LANTERNA PARA CAPACETE, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1, 1, 1, 1, 1, 2, 2, 1, 1, 1",
+        "Código SAP": "1121654, 1130122, 1103176, 1144814, 1139804, 1143249, 1143232, 1292725, 1154912, 1116791"
     }
 ]
