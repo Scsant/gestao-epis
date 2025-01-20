@@ -746,5 +746,16 @@
         "Descrição": "PERNEIRA, OCULOS ESPELHADO AERO, OCULOS POLICARBONATO SOLUS 1000",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1116791, 1144814, 1137601"
+    },
+    {
+        "Nome": "REINALDO ROMANO",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000607",
+        "Tipo": "CALÇADO, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME M",
+        "Quantidade": "1, 2",
+        "Código SAP": "1139802, 1143248"
     }
 ]
