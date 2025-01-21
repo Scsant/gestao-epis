@@ -14951,5 +14951,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "ANTONIO DE JESUS BATISTA",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015014",
+        "Tipo": "EPC, EPC, EPC",
+        "Descrição": "VASSOURA MOP 60 CM, CABO P/FOICE MADEIRA, FOICE MINERA TRAMONTINA 77619/635",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "3527217, 1178558, 1178003"
     }
 ]
