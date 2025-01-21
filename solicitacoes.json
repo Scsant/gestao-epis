@@ -64,5 +64,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 43",
         "Quantidade": "1",
         "Código SAP": "1139805"
+    },
+    {
+        "Nome": "Bruno Vinicius De Souza Regonato",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013481",
+        "Tipo": "EPI, CAMISA, CALÇA MASCULINA, CALÇADO",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1, 2, 2, 1",
+        "Código SAP": "1141560, 1143270, 1143235, 1139802"
     }
 ]
