@@ -14940,5 +14940,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143235, 1143249"
+    },
+    {
+        "Nome": "ANTONIO DE JESUS BATISTA",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015014",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
