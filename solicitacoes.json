@@ -15050,5 +15050,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 38, CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, PORTA FERRAMENTA COR 016 ROYAL 01467, OCULOS ESPELHADO AERO, GARRAFAO TERMICO",
         "Quantidade": "1, 2, 2, 1, 1, 1",
         "Código SAP": "1139800, 1143281, 1143248, 1141461, 1144814, 1130122"
+    },
+    {
+        "Nome": "Ueliton Pasqualinotto",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013485",
+        "Tipo": "EPC, EPC, EPC",
+        "Descrição": "CABO RODOS/VASSOURAS MADEIRA, VASSOURA GARI 60CM 5 FILEIRAS, REFIL VASSOURA MOP 60 CM",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1138090, 1320639, 3527218"
     }
 ]
