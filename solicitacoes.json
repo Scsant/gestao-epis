@@ -14984,5 +14984,16 @@
         "Descrição": "CAMISA UNIFORME M, PALMILHA 38, LUVA SEGURANCA VAQUETA MISTA UNICO",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143248, 1127546, 1120402"
+    },
+    {
+        "Nome": "Adriano de Oliveira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015012",
+        "Tipo": "OCULOS, CALÇADO, EPI",
+        "Descrição": "OCULOS POLICARBONATO SOLUS 1000, BOTINA DE SEGURANÇA PRETO 42, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1137601, 1139804, 1103176"
     }
 ]
