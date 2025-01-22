@@ -15072,5 +15072,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "2",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "ADAILTON MANOEL DA SILVA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006855",
+        "Tipo": "CALÇADO, EPI, EPI, CAMISA, EPI, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAPA GG, PERNEIRA, CAMISA UNIFORME G, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 2, 1, 1",
+        "Código SAP": "1139803, 1103164, 1116791, 1143249, 1154912, 1103176"
     }
 ]
