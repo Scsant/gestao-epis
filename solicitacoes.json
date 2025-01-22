@@ -15039,5 +15039,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "DURVAL FERNANDO DOS SANTOS",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009262",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, CAMISA, OUTROS, OCULOS, OUTROS",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 38, CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, PORTA FERRAMENTA COR 016 ROYAL 01467, OCULOS ESPELHADO AERO, GARRAFAO TERMICO",
+        "Quantidade": "1, 2, 2, 1, 1, 1",
+        "Código SAP": "1139800, 1143281, 1143248, 1141461, 1144814, 1130122"
     }
 ]
