@@ -15006,5 +15006,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "Remerson Henrique Bircol",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017665",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 41",
+        "Quantidade": "1",
+        "Código SAP": "1127547"
     }
 ]
