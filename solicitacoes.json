@@ -15259,5 +15259,16 @@
         "Descrição": "LANTERNA PARA CAPACETE, OCULOS ESPELHADO AERO",
         "Quantidade": "1, 1",
         "Código SAP": "1154912, 1144814"
+    },
+    {
+        "Nome": "CARLOS ALBERTO MARCIANO",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019155",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
