@@ -15226,5 +15226,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "ADEILDO FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007370",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
