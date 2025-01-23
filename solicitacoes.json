@@ -15182,5 +15182,16 @@
         "Descrição": "PALMILHA 41",
         "Quantidade": "1",
         "Código SAP": "1127547"
+    },
+    {
+        "Nome": "ADEILDO FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007370",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS POLICARBONATO SOLUS 1000",
+        "Quantidade": "1",
+        "Código SAP": "1137601"
     }
 ]
