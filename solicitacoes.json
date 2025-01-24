@@ -15303,5 +15303,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME M, CALÇA MASCULINA Nº 42",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139802, 1143248, 1143231"
+    },
+    {
+        "Nome": "RONALDO RODRIGUES DA SILVA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017578",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
