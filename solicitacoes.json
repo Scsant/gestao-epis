@@ -15358,5 +15358,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 40, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143248, 1143232, 1139802, 1114370"
+    },
+    {
+        "Nome": "EDER LEONEL ROZARIO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37004874",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, OCULOS, PROTETOR, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, OCULOS POLICARBONATO SOLUS 1000, PROTETOR PERNA PERNEIRA COURO, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1, 1, 1, 1",
+        "Código SAP": "1143234, 1143249, 1139803, 1137601, 1116791, 1103176"
     }
 ]
