@@ -15369,5 +15369,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, OCULOS POLICARBONATO SOLUS 1000, PROTETOR PERNA PERNEIRA COURO, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143234, 1143249, 1139803, 1137601, 1116791, 1103176"
+    },
+    {
+        "Nome": "Vagner Magalhaes Viana",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019169",
+        "Tipo": "CAMISA, CALÇA MASCULINA, OCULOS",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, ÓCULOS POLICARBONTO VERDE ET.46",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143249, 1143234, 1103430"
     }
 ]
