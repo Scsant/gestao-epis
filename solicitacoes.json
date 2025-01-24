@@ -15347,5 +15347,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, PALMILHA 42",
         "Quantidade": "1, 1",
         "Código SAP": "1141560, 1127545"
+    },
+    {
+        "Nome": "SIDNEY ANTONIO CARDOSO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013422",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO, COSMETICOS",
+        "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 40, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143248, 1143232, 1139802, 1114370"
     }
 ]
