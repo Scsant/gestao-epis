@@ -15292,5 +15292,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO, PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1, 1",
         "Código SAP": "1103176, 1141461"
+    },
+    {
+        "Nome": "ANDRE LUIS FURLANETTTO",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018517",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME M, CALÇA MASCULINA Nº 42",
+        "Quantidade": "1, 2, 2",
+        "Código SAP": "1139802, 1143248, 1143231"
     }
 ]
