@@ -15468,5 +15468,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48",
         "Quantidade": "2, 2",
         "Código SAP": "1143249, 1143234"
+    },
+    {
+        "Nome": "Matheus Adriel Ferreira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014865",
+        "Tipo": "CAMISA, CALÇA MASCULINA, OCULOS, CALÇADO",
+        "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, OCULOS POLICARBONATO SOLUS 1000, BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143249, 1143233, 1137601, 1139804"
     }
 ]
