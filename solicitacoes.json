@@ -15402,5 +15402,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA, OCULOS POLICARBONATO SOLUS 1000",
         "Quantidade": "1, 1",
         "Código SAP": "1103375, 1137601"
+    },
+    {
+        "Nome": "JOSEMAR FELIX OLIVEIRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006830",
+        "Tipo": "COSMETICOS, COSMETICOS, OUTROS, KIT ABELHA, KIT ABELHA, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CREME PROTECAO NUTRIEX II (RISCO QUIMICO), GARRAFAO TERMICO, CAPUZ FUGA ABELHAS, LUVA SEGURANCA VAQUETA MISTA UNICO, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1, 1, 1, 1, 1",
+        "Código SAP": "1114370, 1121654, 1130122, 1140365, 1120402, 1154912"
     }
 ]
