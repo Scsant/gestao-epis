@@ -15479,5 +15479,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, OCULOS POLICARBONATO SOLUS 1000, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143249, 1143233, 1137601, 1139804"
+    },
+    {
+        "Nome": "FERNANDO DOS SANTOS FERREIRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009212",
+        "Tipo": "OUTROS, EPI, EPI",
+        "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1141461, 1154912, 1103176"
     }
 ]
