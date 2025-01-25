@@ -15435,5 +15435,16 @@
         "Descrição": "PALMILHA 42",
         "Quantidade": "1",
         "Código SAP": "1127545"
+    },
+    {
+        "Nome": "JOSEMAR FELIX OLIVEIRA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006830",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR AURICULAR CONCHA",
+        "Quantidade": "1",
+        "Código SAP": "1108360"
     }
 ]
