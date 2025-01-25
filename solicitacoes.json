@@ -15446,5 +15446,16 @@
         "Descrição": "PROTETOR AURICULAR CONCHA",
         "Quantidade": "1",
         "Código SAP": "1108360"
+    },
+    {
+        "Nome": "EVERTON LUIZ MENDES DA SILVA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009382",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 42",
+        "Quantidade": "1",
+        "Código SAP": "1127545"
     }
 ]
