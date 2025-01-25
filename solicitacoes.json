@@ -15490,5 +15490,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1141461, 1154912, 1103176"
+    },
+    {
+        "Nome": "Leandro Abile",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015161",
+        "Tipo": "EPI, EPI, EPI, EPI, CALÇADO, CAMISA, CALÇA MASCULINA, OCULOS, PALMILHA",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA, PERNEIRA, LANTERNA PARA CAPACETE, BOTINA DE SEGURANÇA PRETO 43, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50, OCULOS POLICARBONATO SOLUS 1000, PALMILHA 43",
+        "Quantidade": "1, 1, 1, 1, 1, 2, 2, 1, 1",
+        "Código SAP": "1141560, 1103375, 1116791, 1154912, 1139805, 1143270, 1143235, 1137601, 1127555"
     }
 ]
