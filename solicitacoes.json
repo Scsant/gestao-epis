@@ -15534,5 +15534,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 52, CAPACETE DE SEGURANÇA VERMELHO",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143270, 1143236, 1141558"
+    },
+    {
+        "Nome": "Edson Inacio Ferreira",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014570",
+        "Tipo": "CALÇA MASCULINA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143232, 1139803"
     }
 ]
