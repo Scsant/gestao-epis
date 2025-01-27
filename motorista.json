@@ -2,13 +2,6 @@
     {
         "Frota": "Frota Leste",
         "Equipe": "BTF4",
-        "Matrícula": 37019533.0,
-        "Função": "Motorista",
-        "Nome": "RAFAEL DONIZETE ZANFORLIM"
-    },    
-    {
-        "Frota": "Frota Leste",
-        "Equipe": "BTF4",
         "Matrícula": 37000595.0,
         "Função": "Motorista",
         "Nome": "ANTONIO NICACIO DA SILVA NETO"
@@ -14936,5 +14929,12 @@
         "Matrícula": 37019678.0,
         "Função": "Motorista",
         "Nome": "Tiego Evandro Lopes Siqueira"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF4",
+        "Matrícula": 37019533.0,
+        "Função": "Motorista",
+        "Nome": "RAFAEL DONIZETI ZANFORLIM"
     }
 ]
