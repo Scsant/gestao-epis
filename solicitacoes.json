@@ -42,5 +42,16 @@
         "Descrição": "CAMISA UNIFORME GG, PALMILHA 44",
         "Quantidade": "2, 1",
         "Código SAP": "1143270, 1127553"
+    },
+    {
+        "Nome": "JOSE JACKSON MENDES BRITO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007623",
+        "Tipo": "OUTROS, PALMILHA",
+        "Descrição": "GARRAFAO TERMICO, PALMILHA 42",
+        "Quantidade": "1, 1",
+        "Código SAP": "1130122, 1127545"
     }
 ]
