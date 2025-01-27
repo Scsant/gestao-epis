@@ -9,5 +9,16 @@
         "Descrição": "CAMISA UNIFORME GG, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, LUVA SEGURANCA VAQUETA UNICO, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1143270, 1143270, 1143232, 1139803, 1127547, 1103176, 1141560"
+    },
+    {
+        "Nome": "VITOR HELIO DANTAS PURIDELI",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014789",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143234, 1143249"
     }
 ]
