@@ -108,5 +108,16 @@
         "Descrição": "CAMISA UNIFORME P",
         "Quantidade": "1",
         "Código SAP": "1143247"
+    },
+    {
+        "Nome": "EDSON SALLES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006252",
+        "Tipo": "CAMISA, CAMISA, CALÇA MASCULINA, CALÇADO",
+        "Descrição": "CAMISA UNIFORME P, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 54, BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1, 2, 2, 1",
+        "Código SAP": "1143247, 1143270, 1143237, 1139804"
     }
 ]
