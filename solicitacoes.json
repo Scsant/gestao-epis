@@ -86,5 +86,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143233, 1143249, 1139803, 1127547, 1103176"
+    },
+    {
+        "Nome": "SIDNEY PASINI",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018086",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 42",
+        "Quantidade": "1",
+        "Código SAP": "1127545"
     }
 ]
