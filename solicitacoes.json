@@ -64,5 +64,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 40, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 2, 1, 1, 1",
         "Código SAP": "1143248, 1143231, 1139802, 1154912, 1103176"
+    },
+    {
+        "Nome": "DENIVALDO BATISTA DE SOUZA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017566",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA, PALMILHA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G, CALÇA MASCULINA Nº 50, PALMILHA 41",
+        "Quantidade": "1, 2, 2, 1",
+        "Código SAP": "1139803, 1143249, 1143235, 1127547"
     }
 ]
