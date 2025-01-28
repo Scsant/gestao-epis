@@ -130,5 +130,16 @@
         "Descrição": "PALMILHA 39 ",
         "Quantidade": "1",
         "Código SAP": "1127557"
+    },
+    {
+        "Nome": "GERSON CORDEIRO VITOR",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006944",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CALÇA MASCULINA Nº 42, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 2, 1",
+        "Código SAP": "1139802, 1143231, 1154912"
     }
 ]
