@@ -119,5 +119,16 @@
         "Descrição": "CAMISA UNIFORME P, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 54, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1143247, 1143270, 1143237, 1139804"
+    },
+    {
+        "Nome": "PEDRO FRANCISCO DA SILVA FILHO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007499",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 39 ",
+        "Quantidade": "1",
+        "Código SAP": "1127557"
     }
 ]
