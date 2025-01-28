@@ -75,5 +75,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G, CALÇA MASCULINA Nº 50, PALMILHA 41",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1139803, 1143249, 1143235, 1127547"
+    },
+    {
+        "Nome": "Claudinei Aparecido Da Silva",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015523",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, PALMILHA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143233, 1143249, 1139803, 1127547, 1103176"
     }
 ]
