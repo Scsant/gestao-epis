@@ -174,5 +174,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "ADEILDO FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007370",
+        "Tipo": "EPI, EPC",
+        "Descrição": "LANTERNA PARA CAPACETE, MARMITA ELETRICA 12V",
+        "Quantidade": "1, 1",
+        "Código SAP": "1154912, 1292725"
     }
 ]
