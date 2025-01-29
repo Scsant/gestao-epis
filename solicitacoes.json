@@ -14976,5 +14976,16 @@
         "Descrição": "CALÇA FEMININA Nº 44, CAMISA UNIFORME M",
         "Quantidade": "1, 2",
         "Código SAP": "1143275, 1143248"
+    },
+    {
+        "Nome": "Edson de Souza",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019882",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
+        "Quantidade": "1",
+        "Código SAP": "1139801"
     }
 ]
