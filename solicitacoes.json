@@ -14943,5 +14943,16 @@
         "Matrícula": 37020333.0,
         "Função": "Motorista",
         "Nome": "Marcel da Silva "
+    },
+    {
+        "Nome": "EDER MARTIMIANO LOPES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013779",
+        "Tipo": "EPI, EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1, 1",
+        "Código SAP": "1141560, 1103375"
     }
 ]
