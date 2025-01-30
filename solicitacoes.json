@@ -14987,5 +14987,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
         "Quantidade": "1",
         "Código SAP": "1139801"
+    },
+    {
+        "Nome": "EDSON MARTINS",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006586",
+        "Tipo": "EPI, EPI, EPI, EPI, EPI, OCULOS, COSMETICOS, CALÇADO, CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, LUVA SEGURANCA VAQUETA UNICO, LANTERNA PARA CAPACETE, CAPA GG, PERNEIRA, OCULOS ESPELHADO AERO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, BOTINA DE SEGURANÇA PRETO 39, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46",
+        "Quantidade": "1, 1, 1, 1, 1, 1, 1, 1, 2, 2",
+        "Código SAP": "1141560, 1103176, 1154912, 1103164, 1116791, 1144814, 1114370, 1139801, 1143249, 1143233"
     }
 ]
