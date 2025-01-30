@@ -14957,5 +14957,16 @@
         "Matrícula": 37019737.0,
         "Função": "Motorista",
         "Nome": "Moacir Rodrigo Brailla Wernek"
+    },
+    {
+        "Nome": "JOSE CARLOS CAMILO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008813",
+        "Tipo": "COSMETICOS, EPI, KIT ABELHA, EPC",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LUVA SEGURANCA VAQUETA UNICO, PERNEIRA, MARMITA TERMICA 1.5L",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1114370, 1103176, 1116791, 1323920"
     }
 ]
