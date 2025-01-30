@@ -14943,5 +14943,12 @@
         "Matrícula": 37020333.0,
         "Função": "Motorista",
         "Nome": "Marcel da Silva "
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF8",
+        "Matrícula": 37019803.0,
+        "Função": "Motorista",
+        "Nome": "Richard Paiva"
     }
 ]
