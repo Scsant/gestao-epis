@@ -15045,5 +15045,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "PAULO SERGIO DA SILVA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000918",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, COSMETICOS, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 43, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143235, 1139805, 1114370, 1103176"
     }
 ]
