@@ -15001,5 +15001,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143234, 1143249, 1139803"
+    },
+    {
+        "Nome": "OSMAR PEREIRA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006334",
+        "Tipo": "OCULOS, CAMISA, CALÇADO",
+        "Descrição": "OCULOS POLICARBONATO SOLUS 1000, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1, 2, 1",
+        "Código SAP": "1137601, 1143270, 1139802"
     }
 ]
