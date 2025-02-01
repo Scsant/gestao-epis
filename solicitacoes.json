@@ -75,5 +75,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1",
         "Código SAP": "1141560"
+    },
+    {
+        "Nome": "Fabricio Mantuan de Assis",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012812",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
