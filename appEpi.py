@@ -45,7 +45,7 @@ st.markdown(
     """
     <style>
     .stAlert {
-        background: linear-gradient(135deg, #00009a, #b4df37);
+        background: linear-gradient(135deg, #ffffff, #00009a);
         color: white; /* Cor do texto */
         border: 1px solid #f0f0d8; /* Cor da borda */
     }
@@ -60,7 +60,7 @@ page_style = """
     /* Gradiente para o fundo */
     .stApp {
         background: linear-gradient(185deg, #00009a, #b4df37);
-        color: white;
+        color: black;
     }
 
 </style>
@@ -148,20 +148,27 @@ def salvar_no_github(conteudo_json):
     except Exception as e:
         st.error(f"Erro ao salvar no GitHub: {e}")
         
-def deletar_solicitacoes_do_github():
-    """Deleta o arquivo solicitacoes.json do GitHub."""
+def limpar_solicitacoes_do_github():
+    """Limpa o conteúdo do arquivo solicitacoes.json no GitHub sem deletá-lo."""
     g = Github(GITHUB_TOKEN)
     try:
         repo = g.get_repo(REPO_NAME)
         arquivo = repo.get_contents(SOLICITACOES_FILE)
-        repo.delete_file(
+
+        # Novo conteúdo do arquivo (JSON vazio)
+        novo_conteudo = "{}"  # Para JSON vazio
+
+        # Atualizar o arquivo no GitHub com conteúdo vazio
+        repo.update_file(
             path=SOLICITACOES_FILE,
-            message="Deletando solicitacoes.json da base",
+            message="Limpando conteúdo do solicitacoes.json",
+            content=novo_conteudo,
             sha=arquivo.sha,
         )
-        st.success("Arquivo solicitacoes.json deletado do GitHub com sucesso!")
+        st.success("Conteúdo de solicitacoes.json foi limpo com sucesso no GitHub!")
     except Exception as e:
-        st.error(f"Erro ao deletar solicitacoes.json no GitHub: {e}")        
+        st.error(f"Erro ao limpar solicitacoes.json no GitHub: {e}")
+  
 
 
 def carregar_json(filepath):
@@ -170,14 +177,37 @@ def carregar_json(filepath):
             return json.load(file)
     return []
 
-def salvar_json(filepath, data):
-    """Salva o arquivo localmente e no GitHub."""
-    # Salva localmente
-    with open(filepath, "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
 
-    # Salva no GitHub
-    salvar_no_github(json.dumps(data, ensure_ascii=False, indent=4))
+
+def salvar_json(filepath, data):
+    """Salva o arquivo localmente e no GitHub, evitando duplicações."""
+    
+    try:
+        with open(filepath, "r", encoding="utf-8") as file:
+            dados_existentes = json.load(file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        dados_existentes = []
+
+    dados_unicos = {json.dumps(item, sort_keys=True) for item in dados_existentes}
+    novos_dados = []
+
+    for item in data:
+        item_str = json.dumps(item, sort_keys=True)
+        if item_str not in dados_unicos:
+            dados_unicos.add(item_str)
+            novos_dados.append(item)
+
+    if novos_dados:
+        dados_existentes.extend(novos_dados)
+
+        with open(filepath, "w", encoding="utf-8") as file:
+            json.dump(dados_existentes, file, indent=4, ensure_ascii=False)
+
+        salvar_no_github(json.dumps(dados_existentes, ensure_ascii=False, indent=4))
+
+        return True  # Retorna sucesso ao salvar
+    return False  # Retorna falha se não salvou nada novo
+
 
 
 # Carregar usuários, solicitações e EPIs
@@ -298,10 +328,25 @@ if menu == "Solicitação de EPIs":
             st.dataframe(df_temp)
 
         if st.button("Enviar Solicitações"):
-            solicitacoes.extend(st.session_state["solicitacoes_temp"])
-            salvar_json(SOLICITACOES_FILE, solicitacoes)  # Agora salva localmente e no GitHub
-            st.session_state["solicitacoes_temp"] = []
-            st.success("Solicitações enviadas para análise do supervisor!")
+            novas_solicitacoes = st.session_state["solicitacoes_temp"]
+
+            # Verifica se há novas solicitações antes de salvar
+            if not novas_solicitacoes:
+                st.warning("⚠️ Nenhuma nova solicitação foi adicionada.")
+            else:
+                solicitacoes.extend(novas_solicitacoes)
+
+                # Chama a função e verifica se algo foi salvo
+                resultado = salvar_json(SOLICITACOES_FILE, solicitacoes)  # Agora salva localmente e no GitHub
+
+                if resultado:  # Se algo foi salvo, exibe sucesso
+                    st.success("✅ Solicitações enviadas para análise do supervisor!")
+                    st.session_state["solicitacoes_temp"] = []  # Limpa as solicitações temporárias
+                else:
+                    st.warning("⚠️ As solicitações já existiam e não foram enviadas novamente.")
+
+
+
 # Área Restrita para Supervisores
 elif menu == "Área Restrita - Supervisor":
     st.title("Área Restrita - Supervisor")
@@ -310,16 +355,42 @@ elif menu == "Área Restrita - Supervisor":
     if senha == "admin123":
         st.success("Acesso autorizado")
 
-        # Carregar solicitações do JSON
-        solicitacoes = carregar_json(SOLICITACOES_FILE)
-
         if solicitacoes:
             st.subheader("Solicitações Pendentes para Aprovação")
+
+            # Criar DataFrame
             df_pendentes = pd.DataFrame(solicitacoes)
+
+            # Adiciona um checkbox para selecionar todas as solicitações
+            selecionar_todos = st.checkbox("Selecionar todas as solicitações")
+
+            # Adiciona um selectbox para seleção individual, com opção de selecionar todas
+            selecionados = st.multiselect(
+                "Selecione as solicitações a excluir:", 
+                df_pendentes.index.tolist(),  # Índices das linhas
+                default=df_pendentes.index.tolist() if selecionar_todos else []  # Marca todos se checkbox ativado
+            )
 
             # Exibição padrão da tabela com redimensionamento
             st.dataframe(df_pendentes, use_container_width=True)
 
+            # Se houver solicitações selecionadas e o botão for pressionado, remove apenas as escolhidas
+            if st.button("Excluir Selecionados") and selecionados:
+                df_pendentes.drop(index=selecionados, inplace=True)  # Remove apenas os itens selecionados
+                solicitacoes = df_pendentes.to_dict(orient="records")  # Atualiza a lista JSON
+
+                # Salva a versão atualizada localmente
+                salvar_json(SOLICITACOES_FILE, solicitacoes)  
+
+                # Atualiza no GitHub com o novo conteúdo
+                salvar_no_github(json.dumps(solicitacoes, ensure_ascii=False, indent=4)) 
+
+                st.success(f"✅ {len(selecionados)} solicitação(ões) excluída(s) com sucesso!")
+                st.rerun()  # Atualiza a interface para refletir as mudanças
+
+
+                
+                
             # Botão para exportar para Excel
             def exportar_para_excel(dataframe):
                 output = BytesIO()
@@ -378,6 +449,6 @@ elif menu == "Área Restrita - Supervisor":
         # Botão para deletar o arquivo de solicitações no GitHub
         st.subheader("Limpar Base de Solicitações")
         if st.button("Deletar Solicitações da Base"):
-            deletar_solicitacoes_do_github()
+            limpar_solicitacoes_do_github()
 
                             
