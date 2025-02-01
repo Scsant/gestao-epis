@@ -31,5 +31,16 @@
         "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1",
         "Código SAP": "1114370"
+    },
+    {
+        "Nome": "Jose Macedo De Araujo",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016388",
+        "Tipo": "COSMETICOS, EPI, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE, PERNEIRA",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1114370, 1154912, 1116791"
     }
 ]
