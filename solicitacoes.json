@@ -97,5 +97,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143270, 1143234, 1139803"
+    },
+    {
+        "Nome": "Odair dos Santos Cardoso",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37008948",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
