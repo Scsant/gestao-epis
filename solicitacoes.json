@@ -20,5 +20,16 @@
         "Descrição": "CALÇA FEMININA Nº 40",
         "Quantidade": "1",
         "Código SAP": "1143273"
+    },
+    {
+        "Nome": "SOCRATES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009201",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "1",
+        "Código SAP": "1111086"
     }
 ]
