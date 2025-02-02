@@ -273,5 +273,16 @@
         "Descrição": "PALMILHA 43",
         "Quantidade": "1",
         "Código SAP": "1127555"
+    },
+    {
+        "Nome": "LEANDRO MARCOS CORREA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007253",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
