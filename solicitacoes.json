@@ -130,5 +130,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, PERNEIRA, CAPUZ FUGA ABELHAS, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40, OCULOS ESPELHADO AERO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1, 1, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1143234, 1116791, 1140365, 1143249, 1139802, 1144814, 1114370, 1154912, 1103176"
+    },
+    {
+        "Nome": "Leandro Abile",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015161",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
