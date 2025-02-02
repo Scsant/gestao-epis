@@ -207,5 +207,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 43",
         "Quantidade": "1",
         "Código SAP": "1139805"
+    },
+    {
+        "Nome": "Leandro Abile",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015161",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
