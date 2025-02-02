@@ -152,5 +152,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1",
         "Código SAP": "1103375"
+    },
+    {
+        "Nome": "Leandro Abile",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015161",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
