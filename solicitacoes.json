@@ -163,5 +163,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Leandro Abile",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015161",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
