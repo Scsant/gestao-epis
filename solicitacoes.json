@@ -174,5 +174,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Leandro Abile",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015161",
+        "Tipo": "CALÇA MASCULINA, CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50, CALÇA MASCULINA Nº 50",
+        "Quantidade": "1, 2",
+        "Código SAP": "1143235, 1143235"
     }
 ]
