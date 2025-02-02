@@ -240,5 +240,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME GG, PALMILHA 41, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143235, 1143270, 1127547, 1144814"
+    },
+    {
+        "Nome": "Odair dos Santos Cardoso",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37008948",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
