@@ -229,5 +229,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "Fabricio Pavan",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017998",
+        "Tipo": "CALÇA MASCULINA, CAMISA, PALMILHA, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME GG, PALMILHA 41, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143235, 1143270, 1127547, 1144814"
     }
 ]
