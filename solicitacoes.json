@@ -15011,5 +15011,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Fernando Bregadioli",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014998",
+        "Tipo": "KIT ABELHA, CALÇA MASCULINA",
+        "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO, CALÇA MASCULINA Nº 48",
+        "Quantidade": "1, 2",
+        "Código SAP": "1120402, 1143234"
     }
 ]
