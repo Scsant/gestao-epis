@@ -405,5 +405,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
         "Quantidade": "1",
         "Código SAP": "1120402"
+    },
+    {
+        "Nome": "AGNALDO GOMES DE OLIVEIRA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014649",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
