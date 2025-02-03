@@ -394,5 +394,16 @@
         "Descrição": "CAMISA UNIFORME P",
         "Quantidade": "2",
         "Código SAP": "1143247"
+    },
+    {
+        "Nome": "Luciano de Oliveira Leite",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020321",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1120402"
     }
 ]
