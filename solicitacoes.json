@@ -14971,5 +14971,16 @@
         "Matrícula": 37020375.0,
         "Função": "Motorista",
         "Nome": "Alexandre Donizeti Cappa"
+    },
+    {
+        "Nome": "Celso Dias Barbosa",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019137",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
