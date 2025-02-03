@@ -416,5 +416,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "Maicon Rogerio Fayan",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015752",
+        "Tipo": "CALÇA MASCULINA, CAMISA, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME P, CAPACETE SEGURANCA BRANCO, PERNEIRA",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143231, 1143247, 1141560, 1116791"
     }
 ]
