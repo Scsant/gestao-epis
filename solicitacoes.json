@@ -42,5 +42,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "CLEBER ALEXANDRE MENDES FRANCISCO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007064",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
