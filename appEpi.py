@@ -180,8 +180,12 @@ def carregar_json(filepath):
 
 
 def salvar_json(filepath, data):
-    """Salva o arquivo localmente e no GitHub, evitando duplicações."""
-    
+    """Salva o arquivo localmente e no GitHub, garantindo que os dados corretos sejam gravados."""
+
+    if filepath not in [SOLICITACOES_FILE, USUARIOS_FILE]:  # Evita salvar em arquivos errados
+        st.error(f"Tentativa de salvar em arquivo desconhecido: {filepath}")
+        return False
+
     try:
         with open(filepath, "r", encoding="utf-8") as file:
             dados_existentes = json.load(file)
@@ -203,10 +207,15 @@ def salvar_json(filepath, data):
         with open(filepath, "w", encoding="utf-8") as file:
             json.dump(dados_existentes, file, indent=4, ensure_ascii=False)
 
-        salvar_no_github(json.dumps(dados_existentes, ensure_ascii=False, indent=4))
+        # 🔹 Escolhe a função correta para salvar no GitHub
+        if filepath == SOLICITACOES_FILE:
+            salvar_no_github(json.dumps(dados_existentes, ensure_ascii=False, indent=4))
+        elif filepath == USUARIOS_FILE:
+            salvar_motoristas_no_github(json.dumps(dados_existentes, ensure_ascii=False, indent=4))
 
-        return True  # Retorna sucesso ao salvar
-    return False  # Retorna falha se não salvou nada novo
+        return True  # Sucesso ao salvar
+    return False  # Nenhuma mudança realizada
+
 
 
 
