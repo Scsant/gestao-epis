@@ -15022,5 +15022,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO, CALÇA MASCULINA Nº 48",
         "Quantidade": "1, 2",
         "Código SAP": "1120402, 1143234"
+    },
+    {
+        "Nome": "SOCRATES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009201",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
