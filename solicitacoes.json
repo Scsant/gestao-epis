@@ -31,5 +31,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "CLEBER ALEXANDRE MENDES FRANCISCO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007064",
+        "Tipo": "EPI",
+        "Descrição": "CAPA GG",
+        "Quantidade": "1",
+        "Código SAP": "1103164"
     }
 ]
