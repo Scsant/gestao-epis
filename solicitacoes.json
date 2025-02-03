@@ -14978,5 +14978,16 @@
         "Matrícula": 37020065.0,
         "Função": "Motorista",
         "Nome": "Sérgio Antônio da Silva "
+    },
+    {
+        "Nome": "ADRIANO CANTALUPPI",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007372",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, CAMISA, OCULOS, PALMILHA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, OCULOS ESPELHADO AERO, PALMILHA 39 ",
+        "Quantidade": "1, 2, 2, 1, 1",
+        "Código SAP": "1139801, 1143231, 1143248, 1144814, 1127557"
     }
 ]
