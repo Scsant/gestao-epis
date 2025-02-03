@@ -427,5 +427,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME P, CAPACETE SEGURANCA BRANCO, PERNEIRA",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143231, 1143247, 1141560, 1116791"
+    },
+    {
+        "Nome": "Ueliton Pasqualinotto",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013485",
+        "Tipo": "EPC, EPC",
+        "Descrição": "CABO P/FOICE MADEIRA, FOICE ROCADEIRA TRAMONTINA 77602115",
+        "Quantidade": "1, 1",
+        "Código SAP": "1178558, 1156158"
     }
 ]
