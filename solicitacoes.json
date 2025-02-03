@@ -361,5 +361,16 @@
         "Descrição": "PROTETOR PERNA PERNEIRA COURO",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "JOAO ANDRE",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006263",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
