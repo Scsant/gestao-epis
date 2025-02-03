@@ -14973,25 +14973,10 @@
         "Nome": "Alexandre Donizeti Cappa"
     },
     {
-        "Nome": "Celso Dias Barbosa",
-        "Equipe (BTF)": "BTF3",
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF6",
+        "Matrícula": 37020065.0,
         "Função": "Motorista",
-        "Frota": "Frota Leste",
-        "Matrícula": "37019137",
-        "Tipo": "CALÇA MASCULINA",
-        "Descrição": "CALÇA MASCULINA Nº 46",
-        "Quantidade": "2",
-        "Código SAP": "1143233"
-    },
-    {
-        "Nome": "Celso Dias Barbosa",
-        "Equipe (BTF)": "BTF3",
-        "Função": "Motorista",
-        "Frota": "Frota Leste",
-        "Matrícula": "37019137",
-        "Tipo": "CAMISA",
-        "Descrição": "CAMISA UNIFORME M",
-        "Quantidade": "2",
-        "Código SAP": "1143248"
+        "Nome": "Sérgio Antônio da Silva "
     }
 ]
