@@ -372,5 +372,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Luciano de Oliveira Leite",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020321",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
