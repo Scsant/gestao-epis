@@ -262,5 +262,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G",
         "Quantidade": "2, 1, 2",
         "Código SAP": "1143234, 1139803, 1143249"
+    },
+    {
+        "Nome": "ADELINO MOREIRA DA SILVA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009394",
+        "Tipo": "EPC",
+        "Descrição": "VASSOURA MOP 60 CM",
+        "Quantidade": "1",
+        "Código SAP": "3527217"
     }
 ]
