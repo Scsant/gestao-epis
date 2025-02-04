@@ -174,5 +174,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "FABIO BEZERRA DA SILVA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37017539",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
