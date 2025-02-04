@@ -185,5 +185,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "BRUNO BUZINARO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020044",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, OCULOS, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 42, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, CAPA GG",
+        "Quantidade": "2, 2, 1, 1, 1, 1",
+        "Código SAP": "1143234, 1143249, 1139804, 1144814, 1154912, 1103164"
     }
 ]
