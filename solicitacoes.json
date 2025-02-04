@@ -97,5 +97,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143234, 1143249, 1144814, 1154912, 1139802"
+    },
+    {
+        "Nome": "Leandro Rodrigues",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019723",
+        "Tipo": "COSMETICOS, CALÇA MASCULINA, CAMISA, OCULOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CALÇA MASCULINA Nº 46, CAMISA UNIFORME EGG, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 2, 1, 1",
+        "Código SAP": "1114370, 1143233, 1143271, 1144814"
     }
 ]
