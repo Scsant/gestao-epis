@@ -196,5 +196,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 42, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, CAPA GG",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143234, 1143249, 1139804, 1144814, 1154912, 1103164"
+    },
+    {
+        "Nome": "Gilberto Rodrigues Campos",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014999",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "1",
+        "Código SAP": "1143249"
     }
 ]
