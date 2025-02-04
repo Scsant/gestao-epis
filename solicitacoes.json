@@ -108,5 +108,16 @@
         "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CALÇA MASCULINA Nº 46, CAMISA UNIFORME EGG, OCULOS ESPELHADO AERO",
         "Quantidade": "1, 2, 1, 1",
         "Código SAP": "1114370, 1143233, 1143271, 1144814"
+    },
+    {
+        "Nome": "Emerson Loriano Martins",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015267",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
