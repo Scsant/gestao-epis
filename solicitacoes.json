@@ -251,5 +251,16 @@
         "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, SUSPENSÃO DE CAPACETE / CARNEIRA, CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG, PALMILHA 41, LUVA SEGURANCA VAQUETA UNICO, PERNEIRA, PORTA FERRAMENTA COR 016 ROYAL 01467, MARMITA TERMICA",
         "Quantidade": "1, 1, 2, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1114370, 1103375, 1143234, 1143270, 1127547, 1103176, 1116791, 1141461, 3522519"
+    },
+    {
+        "Nome": "Rubens Sousa Da Silva",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012610",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G",
+        "Quantidade": "2, 1, 2",
+        "Código SAP": "1143234, 1139803, 1143249"
     }
 ]
