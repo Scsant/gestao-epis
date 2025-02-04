@@ -207,5 +207,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "1",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Marcelo Augusto Fermino",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37015178",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
