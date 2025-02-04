@@ -86,5 +86,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "WELLINGTON AMARAL DE JESUS",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014927",
+        "Tipo": "CALÇA MASCULINA, CAMISA, OCULOS, EPI, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143234, 1143249, 1144814, 1154912, 1139802"
     }
 ]
