@@ -163,5 +163,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "FABIO BEZERRA DA SILVA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37017539",
+        "Tipo": "EPI",
+        "Descrição": "CAPA GG",
+        "Quantidade": "1",
+        "Código SAP": "1103164"
     }
 ]
