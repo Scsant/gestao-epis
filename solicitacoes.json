@@ -405,5 +405,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "ANDERSON JOSE BORGES",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014745",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143232, 1143249, 1139802"
     }
 ]
