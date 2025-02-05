@@ -273,5 +273,16 @@
         "Descrição": "VASSOURA MOP 60 CM",
         "Quantidade": "1",
         "Código SAP": "3527217"
+    },
+    {
+        "Nome": "Andre Luiz Alves Dos Santos",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013862",
+        "Tipo": "CALÇADO, PALMILHA, EPI, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PALMILHA 42, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1139804, 1127545, 1154912, 1103176"
     }
 ]
