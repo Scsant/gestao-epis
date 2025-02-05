@@ -284,5 +284,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PALMILHA 42, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1139804, 1127545, 1154912, 1103176"
+    },
+    {
+        "Nome": "Alexandre Donizeti Cappa",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020375",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, CAMISA, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 56, BOTINA DE SEGURANÇA PRETO 44, CAMISA UNIFORME EGG, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 2, 1",
+        "Código SAP": "1143238, 1139806, 1143271, 1144814"
     }
 ]
