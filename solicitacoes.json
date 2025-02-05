@@ -438,5 +438,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143231, 1143248, 1144814"
+    },
+    {
+        "Nome": "Luciano Marcelino Elias Gomes Coletta",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017653",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 42",
+        "Quantidade": "2",
+        "Código SAP": "1143231"
     }
 ]
