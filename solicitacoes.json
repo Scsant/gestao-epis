@@ -295,5 +295,16 @@
         "Descrição": "CALÇA MASCULINA Nº 56, BOTINA DE SEGURANÇA PRETO 44, CAMISA UNIFORME EGG, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 1, 2, 1",
         "Código SAP": "1143238, 1139806, 1143271, 1144814"
+    },
+    {
+        "Nome": "CLODOALDO JORGE DO PRADO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37001821",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
