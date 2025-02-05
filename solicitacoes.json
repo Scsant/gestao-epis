@@ -31,5 +31,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, LUVA SEGURANCA VAQUETA UNICO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1141560, 1103176, 1103375"
+    },
+    {
+        "Nome": "Jose Marcos Lopes Lacerda",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37012664",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1120402"
     }
 ]
