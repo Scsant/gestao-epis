@@ -218,5 +218,16 @@
         "Descrição": "CAMISA UNIFORME EGG, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "2, 1",
         "Código SAP": "1143271, 1139804"
+    },
+    {
+        "Nome": "Luiz Antonio Candido",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017654",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
