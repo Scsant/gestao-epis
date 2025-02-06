@@ -42,5 +42,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
         "Quantidade": "1",
         "Código SAP": "1120402"
+    },
+    {
+        "Nome": "CLODOALDO JORGE DO PRADO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37001821",
+        "Tipo": "CALÇADO, PALMILHA, OCULOS",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1139803, 1127547, 1144814"
     }
 ]
