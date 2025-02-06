@@ -240,5 +240,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Luiz Antonio Candido",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017654",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
