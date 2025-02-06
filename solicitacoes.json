@@ -64,5 +64,16 @@
         "Descrição": "CALÇA MASCULINA Nº 56, PALMILHA 42, BOTINA DE SEGURANÇA PRETO 42, OCULOS ESPELHADO AERO, CAMISA UNIFORME GG",
         "Quantidade": "2, 1, 1, 1, 2",
         "Código SAP": "1143238, 1127545, 1139804, 1144814, 1143270"
+    },
+    {
+        "Nome": "MAURICIO FRUTUOSO CAVALCANTI",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009267",
+        "Tipo": "OUTROS, OUTROS, EPI, EPI, EPI, EPI",
+        "Descrição": "GARRAFAO TERMICO, PORTA FERRAMENTA COR 016 ROYAL 01467, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO, PERNEIRA",
+        "Quantidade": "1, 1, 1, 1, 1, 1",
+        "Código SAP": "1130122, 1141461, 1103375, 1154912, 1103176, 1116791"
     }
 ]
