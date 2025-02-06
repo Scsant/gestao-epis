@@ -108,5 +108,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, PALMILHA 40",
         "Quantidade": "1, 1",
         "Código SAP": "1139802, 1127554"
+    },
+    {
+        "Nome": "CLAUDIO LEANDRO COSTA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013180",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
