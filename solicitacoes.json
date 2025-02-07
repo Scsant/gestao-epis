@@ -361,5 +361,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 52",
         "Quantidade": "2, 2",
         "Código SAP": "1143270, 1143236"
+    },
+    {
+        "Nome": "André Luiz de Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019572",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
