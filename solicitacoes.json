@@ -427,5 +427,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "1",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "ELTON ROGERIO BROMBINI ",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019274",
+        "Tipo": "CAMISA, CALÇADO, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40, CALÇA MASCULINA Nº 44",
+        "Quantidade": "2, 1, 2",
+        "Código SAP": "1143248, 1139802, 1143232"
     }
 ]
