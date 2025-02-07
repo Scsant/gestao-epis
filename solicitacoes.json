@@ -449,5 +449,16 @@
         "Descrição": "CAPUZ FUGA ABELHAS, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1, 1",
         "Código SAP": "1140365, 1141560"
+    },
+    {
+        "Nome": "WAGNER APARECIDO DA CRUZ",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006585",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO, COSMETICOS, OCULOS, EPI, PROTETOR",
+        "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 43, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "2, 2, 1, 1, 1, 1, 1",
+        "Código SAP": "1143270, 1143235, 1139805, 1114370, 1144814, 1154912, 1116791"
     }
 ]
