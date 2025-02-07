@@ -306,5 +306,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Ricardo Marques da Silva",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014969 ",
+        "Tipo": "CALÇA MASCULINA, CAMISA, EPI, COSMETICOS, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME G, LUVA SEGURANCA VAQUETA UNICO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143232, 1143249, 1103176, 1114370, 1139803"
     }
 ]
