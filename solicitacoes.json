@@ -416,5 +416,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143233, 1143249, 1114370"
+    },
+    {
+        "Nome": "Rogerio Antonio Da Silva",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013469",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "1",
+        "Código SAP": "1143249"
     }
 ]
