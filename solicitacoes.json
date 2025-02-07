@@ -438,5 +438,16 @@
         "Descrição": "CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40, CALÇA MASCULINA Nº 44",
         "Quantidade": "2, 1, 2",
         "Código SAP": "1143248, 1139802, 1143232"
+    },
+    {
+        "Nome": "Alexandre Donizeti Cappa",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020375",
+        "Tipo": "KIT ABELHA, EPI",
+        "Descrição": "CAPUZ FUGA ABELHAS, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1140365, 1141560"
     }
 ]
