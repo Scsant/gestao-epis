@@ -405,5 +405,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "LORIVALDO DE LIMA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37007139",
+        "Tipo": "CALÇA MASCULINA, CAMISA, COSMETICOS",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143233, 1143249, 1114370"
     }
 ]
