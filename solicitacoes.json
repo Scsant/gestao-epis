@@ -504,5 +504,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "Anderson Alberico Gallis",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013468",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 56, CAMISA UNIFORME GG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143238, 1143270"
     }
 ]
