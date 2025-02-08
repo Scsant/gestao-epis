@@ -614,5 +614,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "GENIVAL SALUCESTE",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000917",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
