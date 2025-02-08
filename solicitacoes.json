@@ -636,5 +636,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "GENIVAL SALUCESTE",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000917",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
