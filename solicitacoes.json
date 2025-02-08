@@ -482,5 +482,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "Anderson Alberico Gallis",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013468",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 56",
+        "Quantidade": "2",
+        "Código SAP": "1143238"
     }
 ]
