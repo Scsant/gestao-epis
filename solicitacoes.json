@@ -548,5 +548,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "Jose Luiz De Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014756",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 40",
+        "Quantidade": "1",
+        "Código SAP": "1143281"
     }
 ]
