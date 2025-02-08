@@ -592,5 +592,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "ANTONIO NICACIO DA SILVA NETO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000595",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
