@@ -471,5 +471,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "MARCELO APARECIDO BENTO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009363",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1",
+        "Código SAP": "1139802"
     }
 ]
