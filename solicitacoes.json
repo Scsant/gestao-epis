@@ -581,5 +581,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "ANTONIO NICACIO DA SILVA NETO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000595",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1",
+        "Código SAP": "1139804"
     }
 ]
