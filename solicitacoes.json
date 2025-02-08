@@ -493,5 +493,16 @@
         "Descrição": "CALÇA MASCULINA Nº 56",
         "Quantidade": "2",
         "Código SAP": "1143238"
+    },
+    {
+        "Nome": "Jose Luiz De Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014756",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
