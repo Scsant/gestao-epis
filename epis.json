@@ -402,53 +402,6 @@
         "DESCRIÇÃO": "GARRAFAO TERMICO",
         "COD SAP": 1130122,
         "quantidades permitidas": 1
-    },
-    {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "CABO RODOS/VASSOURAS MADEIRA",
-        "COD SAP": 1138090,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "VASSOURA INDUSTRIAL C/ CABO GARY",
-        "COD SAP": 1320430,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "VASSOURA INDUSTRIAL C/ CABO GARY",
-        "COD SAP": 3320032,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "VASSOURA MOP 60 CM",
-        "COD SAP": 3527217,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "BAINHA FOICE COURO",
-        "COD SAP": 1178643,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "CABO P/FOICE MADEIRA",
-        "COD SAP": 1178558,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "FOICE ROCADEIRA TRAMONTINA 77602115",
-        "COD SAP": 1156158,
-        "quantidades permitidas": 1
-      },
-      {
-        "TIPO": "EPC",
-        "DESCRIÇÃO": "MARMITA TERMICA",
-        "COD SAP": 3522519,
-        "quantidades permitidas": 1
-      }         
+    }
+ 
 ]
