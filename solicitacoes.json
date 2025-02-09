@@ -735,5 +735,16 @@
         "Descrição": "PROTETOR PERNA PERNEIRA COURO",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "ADEILDO FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007370",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
