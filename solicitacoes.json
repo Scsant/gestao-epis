@@ -856,5 +856,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "1",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "JOSE LUIZ PAGADIGORRIA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006273",
+        "Tipo": "EPC",
+        "Descrição": "MARMITA TERMICA",
+        "Quantidade": "1",
+        "Código SAP": "3522519"
     }
 ]
