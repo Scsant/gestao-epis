@@ -724,5 +724,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "1",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "CRISTIANO RODRIGO LADEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009620",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR PERNA PERNEIRA COURO",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
