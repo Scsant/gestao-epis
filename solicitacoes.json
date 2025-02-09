@@ -768,5 +768,16 @@
         "Descrição": "MARMITA TERMICA",
         "Quantidade": "1",
         "Código SAP": "3522519"
+    },
+    {
+        "Nome": "ADEILDO FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007370",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "LUVA SEGURANCA VAQUETA MISTA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1120402"
     }
 ]
