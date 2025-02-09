@@ -702,5 +702,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME M, PROTETOR PERNA PERNEIRA COURO, OCULOS ESPELHADO AERO, PORTA FERRAMENTA COR 016 ROYAL 01467, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 40",
         "Quantidade": "2, 2, 1, 1, 1, 1, 1, 1",
         "Código SAP": "1143281, 1143248, 1116791, 1144814, 1141461, 1111086, 1114370, 1127554"
+    },
+    {
+        "Nome": "ADEILDO FERREIRA DA SILVA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007370",
+        "Tipo": "EPC",
+        "Descrição": "MARMITA TERMICA",
+        "Quantidade": "1",
+        "Código SAP": "3522519"
     }
 ]
