@@ -713,5 +713,16 @@
         "Descrição": "MARMITA TERMICA",
         "Quantidade": "1",
         "Código SAP": "3522519"
+    },
+    {
+        "Nome": "CRISTIANO RODRIGO LADEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009620",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "1",
+        "Código SAP": "1143248"
     }
 ]
