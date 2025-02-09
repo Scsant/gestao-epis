@@ -801,5 +801,16 @@
         "Descrição": "CAMISA UNIFORME G, OCULOS ESPELHADO AERO, PALMILHA 41",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143249, 1144814, 1127547"
+    },
+    {
+        "Nome": "Moacir Rodrigo Brailla Wernek",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019737",
+        "Tipo": "CALÇA MASCULINA, COSMETICOS, CAMISA, CALÇADO, KIT ABELHA, KIT ABELHA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 48, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40, LUVA SEGURANCA VAQUETA MISTA UNICO, CAPUZ FUGA ABELHAS, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 2, 1, 1, 1, 1",
+        "Código SAP": "1143234, 1114370, 1143249, 1139802, 1120402, 1140365, 1103176"
     }
 ]
