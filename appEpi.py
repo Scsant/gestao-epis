@@ -361,7 +361,7 @@ elif menu == "Área Restrita - Supervisor":
     st.title("Área Restrita - Supervisor")
     senha = st.text_input("Digite a senha", type="password")
 
-    if senha == "admin123":
+    if senha == "Gabi2906#":
         st.success("Acesso autorizado")
 
         if solicitacoes:
@@ -459,5 +459,80 @@ elif menu == "Área Restrita - Supervisor":
         st.subheader("Limpar Base de Solicitações")
         if st.button("Deletar Solicitações da Base"):
             limpar_solicitacoes_do_github()
+
+
+# Inicializa corretamente as variáveis de sessão para emergenciais
+if "pedidos_emergenciais" not in st.session_state:
+    st.session_state["pedidos_emergenciais"] = []
+
+if menu == "Área Restrita - Pediddo Emergencial":
+    st.title("Área Restrita - Pedido Emergencial")
+    
+    senha = st.text_input("Digite a senha", type="password")   
+    if senha == "Troca@2025":
+        st.success("Acesso autorizado")
+       
+        matricula_emergencial = st.text_input("Digite a matrícula do colaborador")  # Nome diferenciado
+        usuario_emergencial = buscar_usuario_por_matricula(matricula_emergencial) if matricula_emergencial else None
+
+        if usuario_emergencial:
+            st.success(f"Bem-vindo, {usuario_emergencial['Nome']} ({usuario_emergencial['Função']})")
+
+            st.header("Selecione os EPIs necessários")
+
+            tipo_epi_emergencial = st.selectbox("Tipo de EPI (Emergencial)", ["Selecione"] + obter_tipos_epis())
+            if tipo_epi_emergencial != "Selecione":
+                epis_disponiveis_emergencial = obter_epis_por_tipo(tipo_epi_emergencial)
+                descricao_epi_emergencial = st.selectbox("Descrição do EPI (Emergencial)", ["Selecione"] + [epi["DESCRIÇÃO"] for epi in epis_disponiveis_emergencial])
+
+                if descricao_epi_emergencial != "Selecione":
+                    epi_selecionado_emergencial = next(epi for epi in epis_disponiveis_emergencial if epi["DESCRIÇÃO"] == descricao_epi_emergencial)
+                    quantidade_permitida_emergencial = epi_selecionado_emergencial["quantidades permitidas"]
+
+                    quantidade_emergencial = st.number_input("Quantidade (Emergencial)", min_value=1, max_value=quantidade_permitida_emergencial, step=1)
+
+                    if st.button("Adicionar ao Resumo - Pedido Emergencial"):
+                        st.session_state["pedidos_emergenciais"].append(
+                            {
+                                "Nome": usuario_emergencial["Nome"],
+                                "Equipe (BTF)": usuario_emergencial.get("Equipe", "N/A"),
+                                "Função": usuario_emergencial["Função"],
+                                "Frota": usuario_emergencial.get("Frota", "N/A"),
+                                "Matrícula": matricula_emergencial,
+                                "Tipo": tipo_epi_emergencial,
+                                "Descrição": descricao_epi_emergencial,
+                                "Quantidade": str(quantidade_emergencial),
+                                "Código SAP": str(epi_selecionado_emergencial["COD SAP"]),
+                            }
+                        )
+                        st.success(f"{descricao_epi_emergencial} adicionado com sucesso!")
+
+            if st.session_state["pedidos_emergenciais"]:
+                st.subheader("Resumo das Solicitações Emergenciais")
+                df_temp_emergencial = pd.DataFrame(st.session_state["pedidos_emergenciais"])
+                st.dataframe(df_temp_emergencial)
+                
+                
+            if st.button("Salvar Pedido Emergencial", key="salvar_pedido_emergencial"):
+                df_temp_emergencial = pd.DataFrame(st.session_state["pedidos_emergenciais"])
+
+                excel_path = "pedidoEmergencial.xlsx"
+                df_temp_emergencial.to_excel(excel_path, index=False)
+
+                st.success(f"✅ Arquivo salvo como {excel_path}")
+
+                with open(excel_path, "rb") as file:
+                    if st.download_button(
+                        label="📥 Baixar Pedido Emergencial",
+                        data=file,
+                        file_name="pedidoEmergencial.xlsx",
+                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        key="baixar_pedido_emergencial"
+                    ):
+                        # Limpar os pedidos da sessão após o download
+                        st.session_state["pedidos_emergenciais"] = []
+                        st.rerun()  # Atualiza a página para refletir a limpeza
+                    
+
 
                             
