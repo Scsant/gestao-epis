@@ -790,5 +790,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "Eder Donizeti De Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013884",
+        "Tipo": "CAMISA, OCULOS, PALMILHA",
+        "Descrição": "CAMISA UNIFORME G, OCULOS ESPELHADO AERO, PALMILHA 41",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143249, 1144814, 1127547"
     }
 ]
