@@ -823,5 +823,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "JOSE LUIZ PAGADIGORRIA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006273",
+        "Tipo": "OCULOS, CAMISA, EPI",
+        "Descrição": "OCULOS ESPELHADO AERO, CAMISA UNIFORME GG, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 2, 1",
+        "Código SAP": "1144814, 1143270, 1103176"
     }
 ]
