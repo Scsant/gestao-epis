@@ -812,5 +812,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40, LUVA SEGURANCA VAQUETA MISTA UNICO, CAPUZ FUGA ABELHAS, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1, 2, 1, 1, 1, 1",
         "Código SAP": "1143234, 1114370, 1143249, 1139802, 1120402, 1140365, 1103176"
+    },
+    {
+        "Nome": "JOSE LUIZ PAGADIGORRIA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006273",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 48",
+        "Quantidade": "2",
+        "Código SAP": "1143234"
     }
 ]
