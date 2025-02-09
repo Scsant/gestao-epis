@@ -823,5 +823,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "CARLOS ANDRE GONCALVES DE SOUZA",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006360",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
