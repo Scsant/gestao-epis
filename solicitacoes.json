@@ -757,5 +757,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "CRISTIANO RODRIGO LADEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009620",
+        "Tipo": "EPC",
+        "Descrição": "MARMITA TERMICA",
+        "Quantidade": "1",
+        "Código SAP": "3522519"
     }
 ]
