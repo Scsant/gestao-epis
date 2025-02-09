@@ -260,7 +260,7 @@ def obter_epis_por_tipo(tipo):
     return [epi for epi in epis if epi["TIPO"] == tipo]
 
 # Área de solicitação de EPIs
-menu = st.sidebar.selectbox("Selecione a área", ["Solicitação de EPIs", "Área Restrita - Supervisor"])
+menu = st.sidebar.selectbox("Selecione a área", ["Solicitação de EPIs", "Área Restrita - Supervisor", "Área Restrita - Pediddo Emergencial"])
 
 if menu == "Solicitação de EPIs":
     st.title("Solicitação de EPIs/Logística Florestal")
