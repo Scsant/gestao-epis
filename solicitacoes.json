@@ -889,5 +889,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME M, PALMILHA 41, BOTINA DE SEGURANÇA PRETO 41, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143233, 1143248, 1127547, 1139803, 1154912"
+    },
+    {
+        "Nome": "PEDRO PEREIRA DA SILVA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008841",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 52",
+        "Quantidade": "2",
+        "Código SAP": "1143236"
     }
 ]
