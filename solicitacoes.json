@@ -1087,5 +1087,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "Rafael Dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015140",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, PALMILHA, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 38, PALMILHA 38, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143235, 1143249, 1139800, 1127546, 1144814"
     }
 ]
