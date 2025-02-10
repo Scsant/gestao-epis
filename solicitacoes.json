@@ -900,5 +900,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52",
         "Quantidade": "2",
         "Código SAP": "1143236"
+    },
+    {
+        "Nome": "PEDRO PEREIRA DA SILVA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008841",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 52, CAMISA UNIFORME GG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143236, 1143270"
     }
 ]
