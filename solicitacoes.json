@@ -955,5 +955,16 @@
         "Descrição": "CALÇA MASCULINA Nº 54",
         "Quantidade": "2",
         "Código SAP": "1143237"
+    },
+    {
+        "Nome": "Alessandro Soares da Silva",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019667",
+        "Tipo": "EPI",
+        "Descrição": "CAPA GG",
+        "Quantidade": "1",
+        "Código SAP": "1103164"
     }
 ]
