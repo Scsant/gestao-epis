@@ -988,5 +988,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "SEBASTIAO BATISTA DE FREITAS FILHO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007356",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
