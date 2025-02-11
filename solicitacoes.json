@@ -1098,5 +1098,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 38, PALMILHA 38, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143235, 1143249, 1139800, 1127546, 1144814"
+    },
+    {
+        "Nome": "Bruno Martins",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009619",
+        "Tipo": "EPI, EPI",
+        "Descrição": "PERNEIRA, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1116791, 1154912"
     }
 ]
