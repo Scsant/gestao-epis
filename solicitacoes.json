@@ -130,5 +130,16 @@
         "Descrição": "CALÇA MASCULINA Nº 58, CAMISA UNIFORME EGG",
         "Quantidade": "2, 2",
         "Código SAP": "1143239, 1143271"
+    },
+    {
+        "Nome": "Jhon Cresler Primo",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018072",
+        "Tipo": "CAMISA, CALÇADO, OCULOS",
+        "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 44, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143270, 1139806, 1144814"
     }
 ]
