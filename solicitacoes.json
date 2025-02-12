@@ -119,5 +119,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME P, BOTINA DE SEGURANÇA PRETO 36",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143281, 1143247, 1139788"
+    },
+    {
+        "Nome": "Joao Alves Dos Santos",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37012516",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 58, CAMISA UNIFORME EGG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143239, 1143271"
     }
 ]
