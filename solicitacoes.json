@@ -196,5 +196,16 @@
         "Descrição": "CAMISA UNIFORME M, CALÇA MASCULINA Nº 44",
         "Quantidade": "2, 2",
         "Código SAP": "1143248, 1143232"
+    },
+    {
+        "Nome": "Jose Ronildo Ferreira da Silva",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016727",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
