@@ -108,5 +108,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143232, 1143248, 1139803, 1127547, 1154912"
+    },
+    {
+        "Nome": "Emerson Lourenço",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019814",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 40, CAMISA UNIFORME P, BOTINA DE SEGURANÇA PRETO 36",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143281, 1143247, 1139788"
     }
 ]
