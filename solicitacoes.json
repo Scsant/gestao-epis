@@ -174,5 +174,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52",
         "Quantidade": "2",
         "Código SAP": "1143236"
+    },
+    {
+        "Nome": "OSMAR DA CONCEICAO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007435",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME GG",
+        "Quantidade": "2",
+        "Código SAP": "1143270"
     }
 ]
