@@ -328,5 +328,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "1",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "Rodrigo de Oliveira Venancio",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota oeste",
+        "Matrícula": "37016106",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
