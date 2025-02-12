@@ -86,5 +86,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "2, 2",
         "Código SAP": "1143233, 1143249"
+    },
+    {
+        "Nome": "RUI JOSE PORTES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37004887",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, OUTROS, OCULOS",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 38, PORTA FERRAMENTA COR 016 ROYAL 01467, OCULOS ESPELHADO AERO",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143233, 1143249, 1139800, 1141461, 1144814"
     }
 ]
