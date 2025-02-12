@@ -97,5 +97,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 38, PORTA FERRAMENTA COR 016 ROYAL 01467, OCULOS ESPELHADO AERO",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143233, 1143249, 1139800, 1141461, 1144814"
+    },
+    {
+        "Nome": "Marcus Vinicius Beraldo Roncato",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015072",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, PALMILHA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, LANTERNA PARA CAPACETE",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143232, 1143248, 1139803, 1127547, 1154912"
     }
 ]
