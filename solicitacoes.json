@@ -218,5 +218,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143233, 1143249, 1139802"
+    },
+    {
+        "Nome": "Rodrigo Amaral de Souza",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019125",
+        "Tipo": "CALÇA MASCULINA, COSMETICOS",
+        "Descrição": "CALÇA MASCULINA Nº 48, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1143234, 1114370"
     }
 ]
