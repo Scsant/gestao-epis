@@ -207,5 +207,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "Daniel Paulo Nogueira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019163",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143233, 1143249, 1139802"
     }
 ]
