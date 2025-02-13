@@ -449,5 +449,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "MARCELO XAVIER DUARTE PIPA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37008814",
+        "Tipo": "CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143270, 1143234"
     }
 ]
