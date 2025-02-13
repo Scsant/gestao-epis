@@ -438,5 +438,16 @@
         "Descrição": "CAMISA UNIFORME G, CAMISA UNIFORME GG, CAMISA UNIFORME P, CAMISA UNIFORME PP, CAMISA UNIFORME M, CALÇA MASCULINA Nº 48, CALÇA MASCULINA Nº 50, CALÇA MASCULINA Nº 52, CALÇA MASCULINA Nº 46, CALÇA MASCULINA Nº 38, BOTINA DE SEGURANÇA PRETO 42, BOTINA DE SEGURANÇA PRETO 37",
         "Quantidade": "16, 8, 6, 6, 6, 14, 10, 6, 6, 4, 1, 2",
         "Código SAP": "1143249, 1143270, 1143247, 1143209, 1143248, 1143234, 1143235, 1143236, 1143233, 1143280, 1139804, 1139789"
+    },
+    {
+        "Nome": "MILTON MARCELO GOLVEIA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014933",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
