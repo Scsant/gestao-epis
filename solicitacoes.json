@@ -350,5 +350,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41",
         "Quantidade": "1, 1",
         "Código SAP": "1143232, 1139803"
+    },
+    {
+        "Nome": "REGINALDO RIGO PEREIRA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37005700",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
