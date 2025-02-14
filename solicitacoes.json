@@ -592,5 +592,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "100",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "JOAO LUIZ GALLEGO",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018448",
+        "Tipo": "CAMISA, CALÇADO, COSMETICOS, EPI, EPI",
+        "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 43, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "2, 1, 1, 1, 1",
+        "Código SAP": "1143270, 1139805, 1114370, 1141560, 1103375"
     }
 ]
