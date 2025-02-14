@@ -636,5 +636,16 @@
         "Descrição": "PALMILHA 39 ",
         "Quantidade": "1",
         "Código SAP": "1127557"
+    },
+    {
+        "Nome": "PEDRO FRANCISCO DA SILVA FILHO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007499",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
