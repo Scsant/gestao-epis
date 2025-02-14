@@ -515,5 +515,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "MARCOS ANTONIO DOS SANTOS",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019834",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
