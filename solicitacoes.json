@@ -581,5 +581,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467, CALÇA MASCULINA Nº 46",
         "Quantidade": "1, 4",
         "Código SAP": "1141461, 1143233"
+    },
+    {
+        "Nome": "Alex Aparecido Mendes",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Técnico",
+        "Frota": "Frota Leste",
+        "Matrícula": "37005802",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "100",
+        "Código SAP": "1103176"
     }
 ]
