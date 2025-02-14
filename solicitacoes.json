@@ -658,5 +658,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "Carlos Renato Cavalheiro",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015107",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
