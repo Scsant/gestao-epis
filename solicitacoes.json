@@ -603,5 +603,16 @@
         "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 43, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "2, 1, 1, 1, 1",
         "Código SAP": "1143270, 1139805, 1114370, 1141560, 1103375"
+    },
+    {
+        "Nome": "PEDRO FRANCISCO DA SILVA FILHO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007499",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
