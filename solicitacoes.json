@@ -559,5 +559,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "MARCELO RODRIGO PALUDETO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006831",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME GG",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143235, 1143270"
     }
 ]
