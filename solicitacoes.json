@@ -460,5 +460,16 @@
         "Descrição": "CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48",
         "Quantidade": "2, 2",
         "Código SAP": "1143270, 1143234"
+    },
+    {
+        "Nome": "MARCOS ANTONIO DOS SANTOS",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019834",
+        "Tipo": "KIT ABELHA",
+        "Descrição": "CAPUZ FUGA ABELHAS",
+        "Quantidade": "1",
+        "Código SAP": "1140365"
     }
 ]
