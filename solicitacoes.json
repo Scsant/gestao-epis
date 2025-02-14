@@ -669,5 +669,16 @@
         "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1",
         "Código SAP": "1114370"
+    },
+    {
+        "Nome": "Wesley Rodrigo Biancone",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015893",
+        "Tipo": "CALÇADO, COSMETICOS",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 1",
+        "Código SAP": "1139804, 1114370"
     }
 ]
