@@ -735,5 +735,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO, CALÇA MASCULINA Nº 48, CAMISA UNIFORME G, PALMILHA 41, OCULOS ESPELHADO AERO, PROTETOR PERNA PERNEIRA COURO, LANTERNA PARA CAPACETE, PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1, 2, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1103176, 1143234, 1143249, 1127547, 1144814, 1116791, 1154912, 1141461"
+    },
+    {
+        "Nome": "GERSON CORDEIRO VITOR",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006944",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 40, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143231, 1139802, 1154912, 1103176"
     }
 ]
