@@ -801,5 +801,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "ANTONIO NICACIO DA SILVA NETO",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000595",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 43",
+        "Quantidade": "1",
+        "Código SAP": "1127555"
     }
 ]
