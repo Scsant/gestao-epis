@@ -845,5 +845,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 40, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PROTETOR AURICULAR PLUG SILICONE, PROTETOR PERNA PERNEIRA COURO",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143234, 1143270, 1139802, 1114370, 1111086, 1116791"
+    },
+    {
+        "Nome": "LUIZ SEBASTIAO JORDAN",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006512",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 43",
+        "Quantidade": "1",
+        "Código SAP": "1139805"
     }
 ]
