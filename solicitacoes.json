@@ -812,5 +812,16 @@
         "Descrição": "PALMILHA 43",
         "Quantidade": "1",
         "Código SAP": "1127555"
+    },
+    {
+        "Nome": "Erison Fernando Vieira",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013859",
+        "Tipo": "COSMETICOS, PROTETOR, OUTROS, EPI, EPI, CALÇADO, PALMILHA, OCULOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PROTETOR PERNA PERNEIRA COURO, GARRAFAO TERMICO, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA UNICO, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1, 1, 1, 1, 1, 1, 1",
+        "Código SAP": "1114370, 1116791, 1130122, 1103375, 1103176, 1139803, 1127547, 1144814"
     }
 ]
