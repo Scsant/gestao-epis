@@ -746,5 +746,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 40, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143231, 1139802, 1154912, 1103176"
+    },
+    {
+        "Nome": "FLAVIO LOSCHIAVO BITTENCOURT",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007412",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 39 ",
+        "Quantidade": "1",
+        "Código SAP": "1127557"
     }
 ]
