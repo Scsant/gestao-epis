@@ -757,5 +757,16 @@
         "Descrição": "PALMILHA 39 ",
         "Quantidade": "1",
         "Código SAP": "1127557"
+    },
+    {
+        "Nome": "MARCOS ROBERTO GARCIA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37006903",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
