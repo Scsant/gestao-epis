@@ -911,5 +911,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 38",
         "Quantidade": "1",
         "Código SAP": "1139800"
+    },
+    {
+        "Nome": "ANDRE LUIS FURLANETTTO",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018517",
+        "Tipo": "CAMISA, KIT ABELHA",
+        "Descrição": "CAMISA UNIFORME P, CAPUZ FUGA ABELHAS",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143247, 1140365"
     }
 ]
