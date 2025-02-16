@@ -966,5 +966,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1",
         "Código SAP": "1141560"
+    },
+    {
+        "Nome": "Fabio De Souza Lima",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013506",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
