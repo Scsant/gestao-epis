@@ -1164,5 +1164,16 @@
         "Descrição": "CAMISA UNIFORME P",
         "Quantidade": "2",
         "Código SAP": "1143247"
+    },
+    {
+        "Nome": "BRAZ APARECIDO ZAGHI TEIXEIRA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006790",
+        "Tipo": "CALÇA MASCULINA, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 46, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143233, 1103375, 1103176"
     }
 ]
