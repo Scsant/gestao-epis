@@ -1065,5 +1065,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "Manoel Milton Lobato Ribeiro Filho",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019659",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
