@@ -999,5 +999,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "Romário Falcão Assunção de Almeida ",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019530",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
