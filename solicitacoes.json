@@ -1120,5 +1120,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "André Luiz de Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019572",
+        "Tipo": "OUTROS",
+        "Descrição": "GARRAFAO TERMICO",
+        "Quantidade": "1",
+        "Código SAP": "1130122"
     }
 ]
