@@ -922,5 +922,16 @@
         "Descrição": "CAMISA UNIFORME P, CAPUZ FUGA ABELHAS",
         "Quantidade": "2, 1",
         "Código SAP": "1143247, 1140365"
+    },
+    {
+        "Nome": "VALTER ALVES LIMA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013225",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143233, 1143249"
     }
 ]
