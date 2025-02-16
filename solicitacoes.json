@@ -1054,5 +1054,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
         "Quantidade": "1",
         "Código SAP": "1139801"
+    },
+    {
+        "Nome": "Manoel Milton Lobato Ribeiro Filho",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019659",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
