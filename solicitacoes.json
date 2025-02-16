@@ -1109,5 +1109,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "2",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "André Luiz de Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019572",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
