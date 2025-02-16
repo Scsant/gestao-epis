@@ -900,5 +900,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143231, 1143248, 1139802, 1144814, 1154912, 1103176"
+    },
+    {
+        "Nome": "Tedi Alisson Rodrigues",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015431",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 38",
+        "Quantidade": "1",
+        "Código SAP": "1139800"
     }
 ]
