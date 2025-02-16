@@ -1010,5 +1010,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1",
         "Código SAP": "1141560"
+    },
+    {
+        "Nome": "Romário Falcão Assunção de Almeida ",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019530",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
