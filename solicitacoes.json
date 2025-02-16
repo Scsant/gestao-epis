@@ -1175,5 +1175,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1, 1",
         "Código SAP": "1143233, 1103375, 1103176"
+    },
+    {
+        "Nome": "Genilson Ursulino Dos Santos",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019602",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME P",
+        "Quantidade": "2",
+        "Código SAP": "1143247"
     }
 ]
