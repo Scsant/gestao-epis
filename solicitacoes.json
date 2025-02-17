@@ -1186,5 +1186,16 @@
         "Descrição": "CAMISA UNIFORME P",
         "Quantidade": "2",
         "Código SAP": "1143247"
+    },
+    {
+        "Nome": "Gabriel Augusto Antunes",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014328",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO, COSMETICOS, PALMILHA",
+        "Descrição": "CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 41, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 41",
+        "Quantidade": "2, 2, 1, 1, 1",
+        "Código SAP": "1143234, 1143270, 1139803, 1114370, 1127547"
     }
 ]
