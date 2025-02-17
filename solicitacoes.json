@@ -1219,5 +1219,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Leandro Oliveira Costa",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Técnico",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018881",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "1",
+        "Código SAP": "1143248"
     }
 ]
