@@ -1373,5 +1373,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME P, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1143233, 1143247, 1114370, 1130122"
+    },
+    {
+        "Nome": "RENAN IGNATZ DE SOUZA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018092",
+        "Tipo": "COSMETICOS, CALÇADO, CAMISA, CAMISA",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME M, CAMISA UNIFORME M",
+        "Quantidade": "1, 1, 1, 2",
+        "Código SAP": "1114370, 1139803, 1143248, 1143248"
     }
 ]
