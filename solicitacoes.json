@@ -1263,5 +1263,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 48, BOTINA DE SEGURANÇA PRETO 39",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143249, 1143234, 1139801"
+    },
+    {
+        "Nome": "Joao Claudio Ferreira Garcia",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016641",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
