@@ -1285,5 +1285,16 @@
         "Descrição": "CAMISA UNIFORME GG, BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "2, 1",
         "Código SAP": "1143270, 1139804"
+    },
+    {
+        "Nome": "JOSE LUIZ PAGADIGORRIA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006273",
+        "Tipo": "CAMISA, OCULOS, EPI",
+        "Descrição": "CAMISA UNIFORME G, OCULOS ESPELHADO AERO, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 1",
+        "Código SAP": "1143249, 1144814, 1103176"
     }
 ]
