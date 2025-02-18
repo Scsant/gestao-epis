@@ -1362,5 +1362,16 @@
         "Descrição": "CAMISA UNIFORME P, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO, CALÇA FEMININA Nº 46",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1143247, 1114370, 1130122, 1143276"
+    },
+    {
+        "Nome": "DANIELA MARIA FUIM NASCIMENTO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019503",
+        "Tipo": "CALÇA MASCULINA, CAMISA, COSMETICOS, OUTROS",
+        "Descrição": "CALÇA MASCULINA Nº 46, CAMISA UNIFORME P, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1143233, 1143247, 1114370, 1130122"
     }
 ]
