@@ -1483,5 +1483,16 @@
         "Descrição": "PALMILHA 42",
         "Quantidade": "1",
         "Código SAP": "1127545"
+    },
+    {
+        "Nome": "Diego Henrique De Campos",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37017729",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
