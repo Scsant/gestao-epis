@@ -1461,5 +1461,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143231, 1143248, 1139802"
+    },
+    {
+        "Nome": "LEANDRO PUERTA GIANFILICI",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37009371",
+        "Tipo": "CALÇA MASCULINA, CAMISA, OUTROS, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 54, CAMISA UNIFORME GG, GARRAFAO TERMICO, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1, 2, 1, 1",
+        "Código SAP": "1143237, 1143270, 1130122, 1103375"
     }
 ]
