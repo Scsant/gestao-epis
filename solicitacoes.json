@@ -1450,5 +1450,16 @@
         "Descrição": "CAMISA UNIFORME G, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 1",
         "Código SAP": "1143249, 1139802"
+    },
+    {
+        "Nome": "JOSIMAR DA SILVA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014583",
+        "Tipo": "CALÇA MASCULINA, CAMISA, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143231, 1143248, 1139802"
     }
 ]
