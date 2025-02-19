@@ -1472,5 +1472,16 @@
         "Descrição": "CALÇA MASCULINA Nº 54, CAMISA UNIFORME GG, GARRAFAO TERMICO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1, 2, 1, 1",
         "Código SAP": "1143237, 1143270, 1130122, 1103375"
+    },
+    {
+        "Nome": "JOSE JACKSON MENDES BRITO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007623",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 42",
+        "Quantidade": "1",
+        "Código SAP": "1127545"
     }
 ]
