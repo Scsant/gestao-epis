@@ -1538,5 +1538,16 @@
         "Descrição": "PALMILHA 40",
         "Quantidade": "1",
         "Código SAP": "1127554"
+    },
+    {
+        "Nome": "CLAUDIO DONIZETE PEQUENO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015162",
+        "Tipo": "CAMISA, OCULOS, EPI, EPI",
+        "Descrição": "CAMISA UNIFORME GG, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143270, 1144814, 1154912, 1103176"
     }
 ]
