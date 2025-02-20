@@ -1615,5 +1615,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "JOSE CARLOS DANTAS",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009176",
+        "Tipo": "EPI, CAMISA, CALÇA MASCULINA",
+        "Descrição": "CAPACETE SEGURANCA BRANCO, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1141560, 1143249, 1143233"
     }
 ]
