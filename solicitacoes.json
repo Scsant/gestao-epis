@@ -1626,5 +1626,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1141560, 1143249, 1143233"
+    },
+    {
+        "Nome": "Luis Augusto Batista",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015174",
+        "Tipo": "CAMISA, EPI",
+        "Descrição": "CAMISA UNIFORME M, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1143248, 1103176"
     }
 ]
