@@ -1549,5 +1549,16 @@
         "Descrição": "CAMISA UNIFORME GG, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143270, 1144814, 1154912, 1103176"
+    },
+    {
+        "Nome": "EVERTON FERNANDO PEREIRA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37016788",
+        "Tipo": "COSMETICOS, PALMILHA",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 40",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1127554"
     }
 ]
