@@ -1791,5 +1791,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1",
         "Código SAP": "1141560"
+    },
+    {
+        "Nome": "MICHAEL EMANOEL DA ANUNCIACAO",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015357",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
