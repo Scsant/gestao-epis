@@ -1769,5 +1769,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "Jucilio Da Silva Ferreira",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013484",
+        "Tipo": "CALÇADO, PALMILHA, OCULOS, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, PALMILHA 40, OCULOS ESPELHADO AERO, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1139802, 1127554, 1144814, 1103176"
     }
 ]
