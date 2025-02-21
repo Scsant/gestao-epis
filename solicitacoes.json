@@ -1692,5 +1692,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME G, PERNEIRA, LUVA SEGURANCA VAQUETA UNICO, LANTERNA PARA CAPACETE",
         "Quantidade": "2, 1, 2, 1, 1, 1",
         "Código SAP": "1143233, 1139804, 1143249, 1116791, 1103176, 1154912"
+    },
+    {
+        "Nome": "EVANDRO CARLOS RIBEIRO DA SILVA",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006243",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 43",
+        "Quantidade": "1",
+        "Código SAP": "1139805"
     }
 ]
