@@ -1780,5 +1780,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, PALMILHA 40, OCULOS ESPELHADO AERO, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 1, 1",
         "Código SAP": "1139802, 1127554, 1144814, 1103176"
+    },
+    {
+        "Nome": "Luis Rogerio Da Silva",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014586",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
