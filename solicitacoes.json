@@ -1659,5 +1659,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAPACETE SEGURANCA BRANCO, CAPA GG, PERNEIRA, OCULOS ESPELHADO AERO, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48, PALMILHA 40, GARRAFAO TERMICO",
         "Quantidade": "1, 1, 1, 1, 1, 2, 1, 1, 1",
         "Código SAP": "1139802, 1141560, 1103164, 1116791, 1144814, 1143270, 1143234, 1127554, 1130122"
+    },
+    {
+        "Nome": "Fernando Petrizzi",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020195",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
