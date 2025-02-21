@@ -1736,5 +1736,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "Jose Aparecido da Paixao",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016129",
+        "Tipo": "PALMILHA, PROTETOR, COSMETICOS, EPI",
+        "Descrição": "PALMILHA 38, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 1",
+        "Código SAP": "1127546, 1111086, 1114370, 1103176"
     }
 ]
