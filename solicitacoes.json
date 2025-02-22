@@ -2033,5 +2033,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1139801, 1143249, 1143233, 1154912"
+    },
+    {
+        "Nome": "LUIZ CARLOS VERONEZ",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007108",
+        "Tipo": "CAMISA, PALMILHA, OCULOS",
+        "Descrição": "CAMISA UNIFORME G, PALMILHA 40, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1143249, 1127554, 1144814"
     }
 ]
