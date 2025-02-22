@@ -1934,5 +1934,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO, CAPACETE SEGURANCA BRANCO, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "2, 2, 1, 1, 1, 1",
         "Código SAP": "1143232, 1143248, 1114370, 1144814, 1141560, 1139802"
+    },
+    {
+        "Nome": "Misael Victorio Justino Ribeiro",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37018703",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
