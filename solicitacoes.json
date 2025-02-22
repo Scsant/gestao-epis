@@ -1989,5 +1989,16 @@
         "Descrição": "CAPA GG",
         "Quantidade": "1",
         "Código SAP": "1103164"
+    },
+    {
+        "Nome": "Maristela Cristina Costa Zanella",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37015118",
+        "Tipo": "CAMISA, CALÇA FEMININA, EPI",
+        "Descrição": "CAMISA UNIFORME G, CALÇA FEMININA Nº 44, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143249, 1143275, 1103176"
     }
 ]
