@@ -1978,5 +1978,16 @@
         "Descrição": "PERNEIRA",
         "Quantidade": "1",
         "Código SAP": "1116791"
+    },
+    {
+        "Nome": "LUCIANE NOVAIS LINS",
+        "Equipe (BTF)": "Troca de turno MS",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020152",
+        "Tipo": "EPI",
+        "Descrição": "CAPA GG",
+        "Quantidade": "1",
+        "Código SAP": "1103164"
     }
 ]
