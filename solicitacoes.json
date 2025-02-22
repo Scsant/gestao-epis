@@ -2011,5 +2011,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, CAMISA UNIFORME G",
         "Quantidade": "1, 1",
         "Código SAP": "1141560, 1143249"
+    },
+    {
+        "Nome": "LUIZ CARLOS VERONEZ",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007108",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
