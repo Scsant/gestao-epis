@@ -1835,5 +1835,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, PROTETOR AURICULAR PLUG SILICONE, CALÇA MASCULINA Nº 48, CAMISA UNIFORME GG, PALMILHA 42",
         "Quantidade": "1, 1, 2, 1, 1",
         "Código SAP": "1139804, 1111086, 1143234, 1143270, 1127545"
+    },
+    {
+        "Nome": "JOSE ROBERTO DA SILVA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007062",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME M",
+        "Quantidade": "2",
+        "Código SAP": "1143248"
     }
 ]
