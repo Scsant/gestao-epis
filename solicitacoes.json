@@ -1868,5 +1868,16 @@
         "Descrição": "GARRAFAO TERMICO",
         "Quantidade": "1",
         "Código SAP": "1130122"
+    },
+    {
+        "Nome": "JOSE ROBERTO DA SILVA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007062",
+        "Tipo": "PROTETOR",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE",
+        "Quantidade": "1",
+        "Código SAP": "1111086"
     }
 ]
