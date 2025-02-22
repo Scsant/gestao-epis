@@ -1890,5 +1890,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "WEMERSON DOS SANTOS OLIMPIO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018094",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
