@@ -1923,5 +1923,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME GG",
         "Quantidade": "1, 2",
         "Código SAP": "1139804, 1143270"
+    },
+    {
+        "Nome": "CARLOS ORTIZ DE CAMARGO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006253",
+        "Tipo": "CALÇA MASCULINA, CAMISA, COSMETICOS, OCULOS, EPI, CALÇADO",
+        "Descrição": "CALÇA MASCULINA Nº 44, CAMISA UNIFORME M, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, OCULOS ESPELHADO AERO, CAPACETE SEGURANCA BRANCO, BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "2, 2, 1, 1, 1, 1",
+        "Código SAP": "1143232, 1143248, 1114370, 1144814, 1141560, 1139802"
     }
 ]
