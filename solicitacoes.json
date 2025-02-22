@@ -1813,5 +1813,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "Paulo Natalino Boaventura",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Técnico",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000622",
+        "Tipo": "CALÇADO, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G",
+        "Quantidade": "1, 2",
+        "Código SAP": "1139803, 1143249"
     }
 ]
