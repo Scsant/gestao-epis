@@ -1912,5 +1912,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "1",
         "Código SAP": "1139806"
+    },
+    {
+        "Nome": "JOSIVAM LUIZ DA SILVA",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014711",
+        "Tipo": "CALÇADO, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME GG",
+        "Quantidade": "1, 2",
+        "Código SAP": "1139804, 1143270"
     }
 ]
