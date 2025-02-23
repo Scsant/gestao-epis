@@ -2099,5 +2099,16 @@
         "Descrição": "PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1111086, 1114370, 1154912"
+    },
+    {
+        "Nome": "Marcos Leite",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016354",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
