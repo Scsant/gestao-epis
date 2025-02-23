@@ -2088,5 +2088,16 @@
         "Descrição": "CAMISA UNIFORME GG, OCULOS ESPELHADO AERO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PORTA FERRAMENTA COR 016 ROYAL 01467, GARRAFAO TERMICO",
         "Quantidade": "2, 1, 1, 1, 1",
         "Código SAP": "1143270, 1144814, 1114370, 1141461, 1130122"
+    },
+    {
+        "Nome": "Marcos Leite",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016354",
+        "Tipo": "PROTETOR, COSMETICOS, EPI",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1111086, 1114370, 1154912"
     }
 ]
