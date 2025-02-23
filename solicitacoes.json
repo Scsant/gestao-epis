@@ -2044,5 +2044,16 @@
         "Descrição": "CAMISA UNIFORME G, PALMILHA 40, OCULOS ESPELHADO AERO",
         "Quantidade": "1, 1, 1",
         "Código SAP": "1143249, 1127554, 1144814"
+    },
+    {
+        "Nome": "Jose Luiz De Oliveira",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014756",
+        "Tipo": "CALÇADO, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME M",
+        "Quantidade": "1, 2",
+        "Código SAP": "1139802, 1143248"
     }
 ]
