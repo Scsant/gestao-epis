@@ -2066,5 +2066,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, CAMISA UNIFORME GG",
         "Quantidade": "2, 2",
         "Código SAP": "1143235, 1143270"
+    },
+    {
+        "Nome": "Luciano Cesar Pedroso",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37014461",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, PALMILHA, COSMETICOS",
+        "Descrição": "CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "2, 1, 1, 1",
+        "Código SAP": "1143233, 1139803, 1127547, 1114370"
     }
 ]
