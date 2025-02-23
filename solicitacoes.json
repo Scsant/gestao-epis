@@ -2110,5 +2110,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "EVERTON FERNANDO PEREIRA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37016788",
+        "Tipo": "COSMETICOS, PALMILHA, CAMISA, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 40, CAMISA UNIFORME GG, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1, 1, 2, 1",
+        "Código SAP": "1114370, 1127554, 1143270, 1103375"
     }
 ]
