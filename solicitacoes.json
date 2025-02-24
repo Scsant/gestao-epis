@@ -2154,5 +2154,16 @@
         "Descrição": "CALÇA MASCULINA Nº 52, BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1, 1",
         "Código SAP": "1143236, 1139802"
+    },
+    {
+        "Nome": "Joao Batista Dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015105",
+        "Tipo": "CALÇADO, EPI, EPI, CALÇA MASCULINA, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAPACETE SEGURANCA BRANCO, LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
+        "Quantidade": "1, 1, 1, 2, 2",
+        "Código SAP": "1139804, 1141560, 1154912, 1143233, 1143249"
     }
 ]
