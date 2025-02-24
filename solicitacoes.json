@@ -2165,5 +2165,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAPACETE SEGURANCA BRANCO, LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "1, 1, 1, 2, 2",
         "Código SAP": "1139804, 1141560, 1154912, 1143233, 1143249"
+    },
+    {
+        "Nome": "ANDRE SOARES DE CAMPOS",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009257",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G, CALÇA MASCULINA Nº 46",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1139803, 1143249, 1143233"
     }
 ]
