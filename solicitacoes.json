@@ -2374,5 +2374,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 44, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 2, 1",
         "Código SAP": "1139803, 1143232, 1154912"
+    },
+    {
+        "Nome": "ANTONIO CESAR IANELLA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006724",
+        "Tipo": "EPI, OCULOS",
+        "Descrição": "PERNEIRA, OCULOS ESPELHADO AERO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1116791, 1144814"
     }
 ]
