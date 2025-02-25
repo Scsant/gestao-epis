@@ -2352,5 +2352,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "Jonas Alencar Daniel",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013729",
+        "Tipo": "CALÇA MASCULINA, CAMISA",
+        "Descrição": "CALÇA MASCULINA Nº 42, CAMISA UNIFORME M",
+        "Quantidade": "2, 2",
+        "Código SAP": "1143231, 1143248"
     }
 ]
