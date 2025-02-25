@@ -2242,5 +2242,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME G, CALÇA MASCULINA Nº 42",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139804, 1143249, 1143231"
+    },
+    {
+        "Nome": "DIOGENES ALVES DE ARRUDA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006788",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
