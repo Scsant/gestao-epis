@@ -2220,5 +2220,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "EDENILSON APARECIDO DOS SANTOS",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007349",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
