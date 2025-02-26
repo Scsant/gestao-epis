@@ -2451,5 +2451,16 @@
         "Descrição": "CALÇA MASCULINA Nº 56",
         "Quantidade": "2",
         "Código SAP": "1143238"
+    },
+    {
+        "Nome": "ZEIR DOS SANTOS",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006946",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 42",
+        "Quantidade": "1",
+        "Código SAP": "1143231"
     }
 ]
