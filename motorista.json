@@ -15027,5 +15027,12 @@
         "Matrícula": 37019498.0,
         "Função": "Motorista",
         "Nome": "Antônio Carlos de Almeida"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF8",
+        "Matrícula": 37020843.0,
+        "Função": "Motorista",
+        "Nome": "Rogerio Dutra"
     }
 ]
