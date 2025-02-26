@@ -2594,5 +2594,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "Celso Dias Barbosa",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019137",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 39 ",
+        "Quantidade": "1",
+        "Código SAP": "1127557"
     }
 ]
