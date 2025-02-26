@@ -2517,5 +2517,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1",
         "Código SAP": "1141560"
+    },
+    {
+        "Nome": "ROBERTO CARLOS RIBEIRO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009202",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
