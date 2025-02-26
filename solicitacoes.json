@@ -2407,5 +2407,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "2",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "Maicon Rogerio Fayan",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015752",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
