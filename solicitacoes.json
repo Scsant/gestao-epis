@@ -2506,5 +2506,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "2",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "ROBERTO CARLOS RIBEIRO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009202",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
