@@ -9,5 +9,16 @@
         "Descrição": "CALÇA MASCULINA Nº 40",
         "Quantidade": "2",
         "Código SAP": "1143281"
+    },
+    {
+        "Nome": "Genival Luiz De Assis",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015522",
+        "Tipo": "PROTETOR, OCULOS, EPI",
+        "Descrição": "PROTETOR AURICULAR PLUG SILICONE, OCULOS ESPELHADO AERO, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1111086, 1144814, 1103176"
     }
 ]
