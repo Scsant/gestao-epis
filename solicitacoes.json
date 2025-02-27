@@ -2704,5 +2704,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 46, PALMILHA 40",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1139802, 1143270, 1143233, 1127554"
+    },
+    {
+        "Nome": "OSMAR PEREIRA",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006334",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 40",
+        "Quantidade": "1",
+        "Código SAP": "1127554"
     }
 ]
