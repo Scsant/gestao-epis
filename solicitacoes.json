@@ -2715,5 +2715,16 @@
         "Descrição": "PALMILHA 40",
         "Quantidade": "1",
         "Código SAP": "1127554"
+    },
+    {
+        "Nome": "Marcio Roberto De Paula",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015726",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
