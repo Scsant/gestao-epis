@@ -53,5 +53,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "Claudir Martins Lopes",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015822",
+        "Tipo": "CALÇADO, CAMISA, CAMISA, CALÇA MASCULINA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME GG, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48",
+        "Quantidade": "1, 1, 2, 2",
+        "Código SAP": "1139804, 1143270, 1143270, 1143234"
     }
 ]
