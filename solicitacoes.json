@@ -64,5 +64,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME GG, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48",
         "Quantidade": "1, 1, 2, 2",
         "Código SAP": "1139804, 1143270, 1143270, 1143234"
+    },
+    {
+        "Nome": "Marcos Foizzer",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013853",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "1",
+        "Código SAP": "1139803"
     }
 ]
