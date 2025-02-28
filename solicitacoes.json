@@ -218,5 +218,16 @@
         "Descrição": "OCULOS ESPELHADO AERO, CAMISA UNIFORME M, CAMISA UNIFORME M, CALÇA MASCULINA Nº 44, CAPACETE SEGURANCA BRANCO, PERNEIRA, SUSPENSÃO DE CAPACETE / CARNEIRA, GARRAFAO TERMICO",
         "Quantidade": "1, 1, 2, 2, 1, 1, 1, 1",
         "Código SAP": "1144814, 1143248, 1143248, 1143232, 1141560, 1116791, 1103375, 1130122"
+    },
+    {
+        "Nome": "CRISTIANO JOSE DOS SANTOS",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007672",
+        "Tipo": "OUTROS",
+        "Descrição": "GARRAFAO TERMICO",
+        "Quantidade": "1",
+        "Código SAP": "1130122"
     }
 ]
