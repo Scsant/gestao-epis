@@ -240,5 +240,16 @@
         "Descrição": "CAMISA UNIFORME G, CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 43",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143249, 1143233, 1139805"
+    },
+    {
+        "Nome": "Lenaldo Marcelino dos Santos",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015175",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "1",
+        "Código SAP": "1139803"
     }
 ]
