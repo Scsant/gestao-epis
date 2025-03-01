@@ -306,5 +306,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Lemuel Naum Cardoso",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37015731",
+        "Tipo": "PALMILHA, CALÇA MASCULINA, CAMISA",
+        "Descrição": "PALMILHA 40, CALÇA MASCULINA Nº 54, CAMISA UNIFORME GG",
+        "Quantidade": "1, 2, 2",
+        "Código SAP": "1127554, 1143237, 1143270"
     }
 ]
