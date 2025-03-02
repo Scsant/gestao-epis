@@ -405,5 +405,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "EDISON Bezerra",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019878",
+        "Tipo": "EPI",
+        "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1103375"
     }
 ]
