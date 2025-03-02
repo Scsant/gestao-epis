@@ -361,5 +361,16 @@
         "Descrição": "CAMISA UNIFORME PP, CALÇA MASCULINA Nº 42, BOTINA DE SEGURANÇA PRETO 39, PROTETOR PERNA PERNEIRA COURO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 2, 1, 1, 1",
         "Código SAP": "1143209, 1143231, 1139801, 1116791, 1114370"
+    },
+    {
+        "Nome": "TIAGO GOMES ARAUJO",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37018079",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
