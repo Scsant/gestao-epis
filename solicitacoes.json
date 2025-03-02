@@ -328,5 +328,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "Maicon Rogerio Ramos",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014868",
+        "Tipo": "PALMILHA, CAMISA, CALÇA MASCULINA, EPI",
+        "Descrição": "PALMILHA 38, CAMISA UNIFORME PP, CALÇA MASCULINA Nº 40, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1, 1, 2, 1",
+        "Código SAP": "1127546, 1143209, 1143281, 1141560"
     }
 ]
