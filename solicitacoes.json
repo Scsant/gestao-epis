@@ -339,5 +339,16 @@
         "Descrição": "PALMILHA 38, CAMISA UNIFORME PP, CALÇA MASCULINA Nº 40, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "1, 1, 2, 1",
         "Código SAP": "1127546, 1143209, 1143281, 1141560"
+    },
+    {
+        "Nome": "ROBERTO PEREIRA DE SOUZA JUNIOR",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007283",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
