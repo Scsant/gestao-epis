@@ -471,5 +471,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "JOAO BATISTA BORGES",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006526",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, PALMILHA, CAMISA, EPI, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, CAMISA UNIFORME M, PERNEIRA, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "2, 1, 1, 2, 1, 1, 1",
+        "Código SAP": "1143232, 1139803, 1127547, 1143248, 1116791, 1103375, 1103176"
     }
 ]
