@@ -460,5 +460,16 @@
         "Descrição": "CAMISA UNIFORME G, CAMISA UNIFORME G, CALÇA MASCULINA Nº 48",
         "Quantidade": "1, 2, 1",
         "Código SAP": "1143249, 1143249, 1143234"
+    },
+    {
+        "Nome": "ROGERIO VIEIRA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006513",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
+        "Quantidade": "1",
+        "Código SAP": "1139804"
     }
 ]
