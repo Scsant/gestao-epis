@@ -416,5 +416,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1",
         "Código SAP": "1103375"
+    },
+    {
+        "Nome": "BRUNO JOSE RAVAGIO",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37016802",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 38",
+        "Quantidade": "1",
+        "Código SAP": "1127546"
     }
 ]
