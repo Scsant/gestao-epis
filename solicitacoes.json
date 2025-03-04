@@ -515,5 +515,16 @@
         "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 38, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50, LUVA SEGURANCA VAQUETA UNICO, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 1, 2, 2, 1, 1, 1",
         "Código SAP": "1114370, 1127546, 1143270, 1143235, 1103176, 1103375, 1154912"
+    },
+    {
+        "Nome": "RONALDO PAULINO DOS SANTOS",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007618",
+        "Tipo": "CALÇADO, CAMISA, CAMISA, CALÇA MASCULINA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 43, CAMISA UNIFORME GG, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 52",
+        "Quantidade": "1, 1, 2, 2",
+        "Código SAP": "1139805, 1143270, 1143270, 1143236"
     }
 ]
