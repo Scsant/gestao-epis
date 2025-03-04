@@ -504,5 +504,16 @@
         "Descrição": "CAMISA UNIFORME GG, PALMILHA 44",
         "Quantidade": "2, 1",
         "Código SAP": "1143270, 1127553"
+    },
+    {
+        "Nome": "Luiz Cesar Fiore",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019550",
+        "Tipo": "COSMETICOS, PALMILHA, CAMISA, CALÇA MASCULINA, EPI, EPI, EPI",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, PALMILHA 38, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 50, LUVA SEGURANCA VAQUETA UNICO, SUSPENSÃO DE CAPACETE / CARNEIRA, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 1, 2, 2, 1, 1, 1",
+        "Código SAP": "1114370, 1127546, 1143270, 1143235, 1103176, 1103375, 1154912"
     }
 ]
