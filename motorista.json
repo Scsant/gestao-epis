@@ -15076,5 +15076,12 @@
         "Matrícula": 37020667.0,
         "Função": "Motorista",
         "Nome": "Carlos Alberto Francisco Junior"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF8",
+        "Matrícula": 37019550.0,
+        "Função": "Motorista",
+        "Nome": "Luiz Cesar Fiore"
     }
 ]
