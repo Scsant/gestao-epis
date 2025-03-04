@@ -482,5 +482,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44, BOTINA DE SEGURANÇA PRETO 41, PALMILHA 41, CAMISA UNIFORME M, PERNEIRA, SUSPENSÃO DE CAPACETE / CARNEIRA, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "2, 1, 1, 2, 1, 1, 1",
         "Código SAP": "1143232, 1139803, 1127547, 1143248, 1116791, 1103375, 1103176"
+    },
+    {
+        "Nome": "ROGERIO MACHADO DE ABREU",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006756",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1",
+        "Código SAP": "1139802"
     }
 ]
