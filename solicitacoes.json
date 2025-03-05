@@ -559,5 +559,16 @@
         "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO",
         "Quantidade": "1, 1",
         "Código SAP": "1114370, 1130122"
+    },
+    {
+        "Nome": "Jeferson Tereza",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Técnico",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37004384",
+        "Tipo": "OUTROS",
+        "Descrição": "GARRAFAO TERMICO",
+        "Quantidade": "1",
+        "Código SAP": "1130122"
     }
 ]
