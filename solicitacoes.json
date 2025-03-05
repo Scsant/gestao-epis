@@ -75,5 +75,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "2",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "SEBASTIAO BATISTA DE FREITAS FILHO",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007356",
+        "Tipo": "EPI",
+        "Descrição": "PERNEIRA",
+        "Quantidade": "1",
+        "Código SAP": "1116791"
     }
 ]
