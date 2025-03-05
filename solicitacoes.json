@@ -20,5 +20,16 @@
         "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1",
         "Código SAP": "1103176"
+    },
+    {
+        "Nome": "Cristiano Jose Da Silva",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013463",
+        "Tipo": "CALÇA MASCULINA, CALÇADO, PALMILHA, EPI, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 46, BOTINA DE SEGURANÇA PRETO 33 , PALMILHA 42, LUVA SEGURANCA VAQUETA UNICO, SUSPENSÃO DE CAPACETE / CARNEIRA",
+        "Quantidade": "1, 1, 1, 1, 1",
+        "Código SAP": "1143233, 1139787, 1127545, 1103176, 1103375"
     }
 ]
