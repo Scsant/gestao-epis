@@ -53,5 +53,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 48, PROTETOR PERNA PERNEIRA COURO",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1139803, 1143270, 1143234, 1116791"
+    },
+    {
+        "Nome": "Luciano de Oliveira Leite",
+        "Equipe (BTF)": "BTF5",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37020321",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1",
+        "Código SAP": "1139802"
     }
 ]
