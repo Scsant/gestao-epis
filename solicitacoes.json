@@ -548,5 +548,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Antonio Carlos De Oliveira",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37001501",
+        "Tipo": "COSMETICOS, OUTROS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, GARRAFAO TERMICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1114370, 1130122"
     }
 ]
