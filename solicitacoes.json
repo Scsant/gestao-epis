@@ -251,5 +251,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CAMISA UNIFORME G, CALÇA MASCULINA Nº 50",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139804, 1143249, 1143235"
+    },
+    {
+        "Nome": "ROBSON CARLOS PASCOINE",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009531",
+        "Tipo": "CALÇADO, CALÇA MASCULINA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CALÇA MASCULINA Nº 42",
+        "Quantidade": "1, 2",
+        "Código SAP": "1139803, 1143231"
     }
 ]
