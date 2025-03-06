@@ -295,5 +295,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 39",
         "Quantidade": "1",
         "Código SAP": "1139801"
+    },
+    {
+        "Nome": "Eduardo Gonzaga dos Santos",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37016109",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME GG",
+        "Quantidade": "2",
+        "Código SAP": "1143270"
     }
 ]
