@@ -15090,5 +15090,12 @@
         "Matrícula": 37020295.0,
         "Função": "Motorista",
         "Nome": "Luís Antônio Correia"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF4",
+        "Matrícula": 37019829.0,
+        "Função": "Motorista",
+        "Nome": "Pedro Augusto Felix"
     }
 ]
