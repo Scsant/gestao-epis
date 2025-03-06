@@ -361,5 +361,16 @@
         "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "1",
         "Código SAP": "1141461"
+    },
+    {
+        "Nome": "WEMERSON DOS SANTOS OLIMPIO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37018094",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 50",
+        "Quantidade": "2",
+        "Código SAP": "1143235"
     }
 ]
