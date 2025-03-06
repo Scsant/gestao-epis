@@ -130,5 +130,16 @@
         "Descrição": "CAMISA UNIFORME M",
         "Quantidade": "2",
         "Código SAP": "1143248"
+    },
+    {
+        "Nome": "Lucas Emanuel da Silva",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013864",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
