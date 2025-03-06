@@ -229,5 +229,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "Julio Cesar Custodio",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013850",
+        "Tipo": "PALMILHA",
+        "Descrição": "PALMILHA 42",
+        "Quantidade": "1",
+        "Código SAP": "1127545"
     }
 ]
