@@ -460,5 +460,16 @@
         "Descrição": "CAMISA UNIFORME PP, CALÇA FEMININA Nº 42, LANTERNA PARA CAPACETE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "2, 1, 1, 1",
         "Código SAP": "1143209, 1143274, 1154912, 1114370"
+    },
+    {
+        "Nome": "Eider Cesar Costa Soares",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014970",
+        "Tipo": "OUTROS, EPI",
+        "Descrição": "GARRAFAO TERMICO, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1",
+        "Código SAP": "1130122, 1103176"
     }
 ]
