@@ -372,5 +372,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50",
         "Quantidade": "2",
         "Código SAP": "1143235"
+    },
+    {
+        "Nome": "Antônio Carlos de Almeida",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019498",
+        "Tipo": "CALÇADO, PALMILHA, CALÇA MASCULINA, PROTETOR, COSMETICOS, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 44, PALMILHA 44, CALÇA MASCULINA Nº 52, PROTETOR PERNA PERNEIRA COURO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME GG",
+        "Quantidade": "1, 1, 2, 1, 1, 2",
+        "Código SAP": "1139806, 1127553, 1143236, 1116791, 1114370, 1143270"
     }
 ]
