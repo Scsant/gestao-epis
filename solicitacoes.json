@@ -427,5 +427,16 @@
         "Descrição": "CALÇA MASCULINA Nº 60, CAPACETE SEGURANCA BRANCO",
         "Quantidade": "2, 1",
         "Código SAP": "1143297, 1141560"
+    },
+    {
+        "Nome": "PAULO SERGIO DA SILVA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000918",
+        "Tipo": "EPI",
+        "Descrição": "LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1",
+        "Código SAP": "1103176"
     }
 ]
