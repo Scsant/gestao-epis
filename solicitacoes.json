@@ -405,5 +405,16 @@
         "Descrição": "CALÇA MASCULINA Nº 50, BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME G",
         "Quantidade": "2, 1, 2",
         "Código SAP": "1143235, 1139803, 1143249"
+    },
+    {
+        "Nome": "Jose Carlos Mesacio",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015587",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA, OCULOS, EPI, OUTROS, EPI, COSMETICOS",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME P, CALÇA MASCULINA Nº 38, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PORTA FERRAMENTA COR 016 ROYAL 01467, PERNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1, 2, 2, 1, 1, 1, 1, 1",
+        "Código SAP": "1139803, 1143247, 1143280, 1144814, 1154912, 1141461, 1116791, 1114370"
     }
 ]
