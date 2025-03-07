@@ -416,5 +416,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, CAMISA UNIFORME P, CALÇA MASCULINA Nº 38, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, PORTA FERRAMENTA COR 016 ROYAL 01467, PERNEIRA, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1, 2, 2, 1, 1, 1, 1, 1",
         "Código SAP": "1139803, 1143247, 1143280, 1144814, 1154912, 1141461, 1116791, 1114370"
+    },
+    {
+        "Nome": "SERGIO CARVALHO DE SOUZA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006246",
+        "Tipo": "CALÇA MASCULINA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 60, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143297, 1141560"
     }
 ]
