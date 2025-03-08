@@ -680,5 +680,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 43, CALÇA MASCULINA Nº 48, CAMISA UNIFORME G",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139805, 1143234, 1143249"
+    },
+    {
+        "Nome": "LORIVALDO DE LIMA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37007139",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
