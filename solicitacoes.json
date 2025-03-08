@@ -504,5 +504,16 @@
         "Descrição": "CAPACETE SEGURANCA BRANCO, SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1, 1",
         "Código SAP": "1141560, 1103375"
+    },
+    {
+        "Nome": "Wanderson Rafael Americo",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014922",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME G, CALÇA MASCULINA Nº 44",
+        "Quantidade": "1, 1, 1",
+        "Código SAP": "1139802, 1143249, 1143232"
     }
 ]
