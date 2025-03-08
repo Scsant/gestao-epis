@@ -548,5 +548,16 @@
         "Descrição": "OCULOS ESPELHADO AERO",
         "Quantidade": "1",
         "Código SAP": "1144814"
+    },
+    {
+        "Nome": "CLAUDIO ROGERIO DOMINGUES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000613",
+        "Tipo": "COSMETICOS",
+        "Descrição": "PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
+        "Quantidade": "1",
+        "Código SAP": "1114370"
     }
 ]
