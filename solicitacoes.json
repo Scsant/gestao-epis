@@ -570,5 +570,16 @@
         "Descrição": "CALÇA MASCULINA Nº 42",
         "Quantidade": "2",
         "Código SAP": "1143231"
+    },
+    {
+        "Nome": "CLAUDIO ROGERIO DOMINGUES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37000613",
+        "Tipo": "OUTROS",
+        "Descrição": "PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "1",
+        "Código SAP": "1141461"
     }
 ]
