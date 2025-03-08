@@ -669,5 +669,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42",
         "Quantidade": "1",
         "Código SAP": "1139804"
+    },
+    {
+        "Nome": "SEBASTIAO DE ARAUJO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37017814",
+        "Tipo": "CALÇADO, CALÇA MASCULINA, CAMISA",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 43, CALÇA MASCULINA Nº 48, CAMISA UNIFORME G",
+        "Quantidade": "1, 2, 2",
+        "Código SAP": "1139805, 1143234, 1143249"
     }
 ]
