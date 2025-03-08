@@ -691,5 +691,16 @@
         "Descrição": "LANTERNA PARA CAPACETE",
         "Quantidade": "1",
         "Código SAP": "1154912"
+    },
+    {
+        "Nome": "LORIVALDO DE LIMA",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37007139",
+        "Tipo": "EPI",
+        "Descrição": "CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "1",
+        "Código SAP": "1141560"
     }
 ]
