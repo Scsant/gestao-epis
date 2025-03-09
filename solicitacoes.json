@@ -757,5 +757,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CAMISA UNIFORME G, CAMISA UNIFORME G, CAPA GG",
         "Quantidade": "1, 1, 2, 1",
         "Código SAP": "1139802, 1143249, 1143249, 1103164"
+    },
+    {
+        "Nome": "FABIO QUINTILHO",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37008967",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "2",
+        "Código SAP": "1143232"
     }
 ]
