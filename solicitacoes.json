@@ -768,5 +768,16 @@
         "Descrição": "CALÇA MASCULINA Nº 44",
         "Quantidade": "2",
         "Código SAP": "1143232"
+    },
+    {
+        "Nome": "IZALTINO MIGUEL DE OLIVEIRA",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013623",
+        "Tipo": "CAMISA, CALÇA MASCULINA, CALÇADO, OUTROS",
+        "Descrição": "CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 56, BOTINA DE SEGURANÇA PRETO 44, PORTA FERRAMENTA COR 016 ROYAL 01467",
+        "Quantidade": "2, 2, 1, 1",
+        "Código SAP": "1143271, 1143238, 1139806, 1141461"
     }
 ]
