@@ -779,5 +779,16 @@
         "Descrição": "CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 56, BOTINA DE SEGURANÇA PRETO 44, PORTA FERRAMENTA COR 016 ROYAL 01467",
         "Quantidade": "2, 2, 1, 1",
         "Código SAP": "1143271, 1143238, 1139806, 1141461"
+    },
+    {
+        "Nome": "Florisvaldo Tadeu De Souza",
+        "Equipe (BTF)": "Troca de turno SP",
+        "Função": "Motorista",
+        "Frota": "Troca de turno",
+        "Matrícula": "37017548",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "2",
+        "Código SAP": "1143249"
     }
 ]
