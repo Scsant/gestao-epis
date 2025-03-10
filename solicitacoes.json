@@ -856,5 +856,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 41, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, CAMISA UNIFORME GG, CALÇA MASCULINA Nº 52",
         "Quantidade": "1, 1, 2, 2",
         "Código SAP": "1139803, 1114370, 1143270, 1143236"
+    },
+    {
+        "Nome": "RODRIGO DE SOUZA MONTEIRO",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37007432",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 41",
+        "Quantidade": "1",
+        "Código SAP": "1139803"
     }
 ]
