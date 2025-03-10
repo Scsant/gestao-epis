@@ -823,5 +823,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 42, CALÇA MASCULINA Nº 52, CAMISA UNIFORME GG, CAPACETE SEGURANCA BRANCO, LUVA SEGURANCA VAQUETA UNICO, PERNEIRA, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 2, 2, 1, 1, 1, 1",
         "Código SAP": "1139804, 1143236, 1143270, 1141560, 1103176, 1116791, 1154912"
+    },
+    {
+        "Nome": "JOSE ROBERTO FERREIRA DA ROCHA",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014618",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 44",
+        "Quantidade": "1",
+        "Código SAP": "1143232"
     }
 ]
