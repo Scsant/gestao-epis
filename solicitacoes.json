@@ -999,5 +999,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44, CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 52, LANTERNA PARA CAPACETE",
         "Quantidade": "1, 2, 2, 1",
         "Código SAP": "1139806, 1143271, 1143236, 1154912"
+    },
+    {
+        "Nome": "Marcio Roberto De Paula",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015726",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME GG",
+        "Quantidade": "2",
+        "Código SAP": "1143270"
     }
 ]
