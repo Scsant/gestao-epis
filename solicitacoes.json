@@ -988,5 +988,16 @@
         "Descrição": "CAMISA UNIFORME G",
         "Quantidade": "2",
         "Código SAP": "1143249"
+    },
+    {
+        "Nome": "Marcelo Gobbi Marciano",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37015011",
+        "Tipo": "CALÇADO, CAMISA, CALÇA MASCULINA, EPI",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 44, CAMISA UNIFORME EGG, CALÇA MASCULINA Nº 52, LANTERNA PARA CAPACETE",
+        "Quantidade": "1, 2, 2, 1",
+        "Código SAP": "1139806, 1143271, 1143236, 1154912"
     }
 ]
