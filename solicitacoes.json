@@ -1032,5 +1032,16 @@
         "Descrição": "CALÇA MASCULINA Nº 46",
         "Quantidade": "2",
         "Código SAP": "1143233"
+    },
+    {
+        "Nome": "DANIEL LOPES MENDES DA CRUZ",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006791",
+        "Tipo": "EPI, CALÇA MASCULINA",
+        "Descrição": "LANTERNA PARA CAPACETE, CALÇA MASCULINA Nº 46",
+        "Quantidade": "1, 2",
+        "Código SAP": "1154912, 1143233"
     }
 ]
