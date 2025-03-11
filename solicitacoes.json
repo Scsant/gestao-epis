@@ -944,5 +944,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 44",
         "Quantidade": "1",
         "Código SAP": "1139806"
+    },
+    {
+        "Nome": "EDER MARTIMIANO LOPES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013779",
+        "Tipo": "EPI",
+        "Descrição": "CAPA GG",
+        "Quantidade": "1",
+        "Código SAP": "1103164"
     }
 ]
