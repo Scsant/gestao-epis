@@ -922,5 +922,16 @@
         "Descrição": "CALÇA MASCULINA Nº 54, CAMISA UNIFORME GG, PALMILHA 41",
         "Quantidade": "2, 2, 1",
         "Código SAP": "1143237, 1143270, 1127547"
+    },
+    {
+        "Nome": "ADOLFO APARECIDO LUIS CORREA",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota leste",
+        "Matrícula": "37018384",
+        "Tipo": "CALÇADO",
+        "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
+        "Quantidade": "1",
+        "Código SAP": "1139802"
     }
 ]
