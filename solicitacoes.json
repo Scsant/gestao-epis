@@ -1065,5 +1065,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40",
         "Quantidade": "1",
         "Código SAP": "1139802"
+    },
+    {
+        "Nome": "Fernanda Rosa Dias Dos Santos",
+        "Equipe (BTF)": "BTF1",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37019135",
+        "Tipo": "PALMILHA, PROTETOR, COSMETICOS, EPI, EPI",
+        "Descrição": "PALMILHA 37, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
+        "Quantidade": "1, 1, 1, 1, 1",
+        "Código SAP": "1127548, 1111086, 1114370, 1154912, 1103176"
     }
 ]
