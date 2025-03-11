@@ -1021,5 +1021,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 35, CAMISA UNIFORME PP, CAMISA UNIFORME PP, CAPA GG, CALÇA MASCULINA Nº 38, LANTERNA PARA CAPACETE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE",
         "Quantidade": "1, 1, 2, 1, 1, 1, 1",
         "Código SAP": "1139786, 1143209, 1143209, 1103164, 1143280, 1154912, 1114370"
+    },
+    {
+        "Nome": "DANIEL LOPES MENDES DA CRUZ",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006791",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 46",
+        "Quantidade": "2",
+        "Código SAP": "1143233"
     }
 ]
