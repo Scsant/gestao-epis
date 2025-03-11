@@ -966,5 +966,16 @@
         "Descrição": "CAMISA UNIFORME GG",
         "Quantidade": "2",
         "Código SAP": "1143270"
+    },
+    {
+        "Nome": "Valter de Souza",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37012706",
+        "Tipo": "OCULOS",
+        "Descrição": "OCULOS ESPELHADO AERO",
+        "Quantidade": "1",
+        "Código SAP": "1144814"
     }
 ]
