@@ -911,5 +911,16 @@
         "Descrição": "CALÇA MASCULINA Nº 48",
         "Quantidade": "2",
         "Código SAP": "1143234"
+    },
+    {
+        "Nome": "EDSON SALLES",
+        "Equipe (BTF)": "BTF3",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37006252",
+        "Tipo": "CALÇA MASCULINA, CAMISA, PALMILHA",
+        "Descrição": "CALÇA MASCULINA Nº 54, CAMISA UNIFORME GG, PALMILHA 41",
+        "Quantidade": "2, 2, 1",
+        "Código SAP": "1143237, 1143270, 1127547"
     }
 ]
