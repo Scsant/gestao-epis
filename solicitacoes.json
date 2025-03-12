@@ -1197,5 +1197,16 @@
         "Descrição": "CAMISA UNIFORME EGG, CAMISA UNIFORME EGG",
         "Quantidade": "1, 2",
         "Código SAP": "1143271, 1143271"
+    },
+    {
+        "Nome": "Daniel Marco André",
+        "Equipe (BTF)": "BTF6",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37014727",
+        "Tipo": "CALÇA MASCULINA",
+        "Descrição": "CALÇA MASCULINA Nº 56",
+        "Quantidade": "2",
+        "Código SAP": "1143238"
     }
 ]
