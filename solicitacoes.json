@@ -1131,5 +1131,16 @@
         "Descrição": "CAMISA UNIFORME PP",
         "Quantidade": "2",
         "Código SAP": "1143209"
+    },
+    {
+        "Nome": "Lucio Donizete Pantarotto",
+        "Equipe (BTF)": "BTF2",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37013747",
+        "Tipo": "CALÇA MASCULINA, EPI",
+        "Descrição": "CALÇA MASCULINA Nº 52, CAPACETE SEGURANCA BRANCO",
+        "Quantidade": "2, 1",
+        "Código SAP": "1143236, 1141560"
     }
 ]
