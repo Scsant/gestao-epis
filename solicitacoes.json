@@ -1076,5 +1076,16 @@
         "Descrição": "PALMILHA 37, PROTETOR AURICULAR PLUG SILICONE, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO",
         "Quantidade": "1, 1, 1, 1, 1",
         "Código SAP": "1127548, 1111086, 1114370, 1154912, 1103176"
+    },
+    {
+        "Nome": "Anderson Alberico Gallis",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37013468",
+        "Tipo": "EPI",
+        "Descrição": "LANTERNA PARA CAPACETE",
+        "Quantidade": "1",
+        "Código SAP": "1154912"
     }
 ]
