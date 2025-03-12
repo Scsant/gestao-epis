@@ -1153,5 +1153,16 @@
         "Descrição": "SUSPENSÃO DE CAPACETE / CARNEIRA",
         "Quantidade": "1",
         "Código SAP": "1103375"
+    },
+    {
+        "Nome": "ADRIANA VIEIRA DO SANTOS",
+        "Equipe (BTF)": "BTF8",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37020061",
+        "Tipo": "CALÇA FEMININA, CAMISA, OCULOS, EPI, EPI, COSMETICOS, CALÇADO",
+        "Descrição": "CALÇA FEMININA Nº 44, CAMISA UNIFORME M, OCULOS ESPELHADO AERO, LANTERNA PARA CAPACETE, LUVA SEGURANCA VAQUETA UNICO, PROTETOR SOLAR 120 G FPS 30 C/ REPELENTE, BOTINA DE SEGURANÇA PRETO 35",
+        "Quantidade": "2, 2, 1, 1, 1, 1, 1",
+        "Código SAP": "1143275, 1143248, 1144814, 1154912, 1103176, 1114370, 1139786"
     }
 ]
