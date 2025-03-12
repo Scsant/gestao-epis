@@ -1120,5 +1120,16 @@
         "Descrição": "BOTINA DE SEGURANÇA PRETO 40, CALÇA MASCULINA Nº 46, CAMISA UNIFORME G",
         "Quantidade": "1, 2, 2",
         "Código SAP": "1139802, 1143233, 1143249"
+    },
+    {
+        "Nome": "Fabio dos Santos Souza",
+        "Equipe (BTF)": "BTF7",
+        "Função": "Motorista",
+        "Frota": "Frota Oeste",
+        "Matrícula": "37019837",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME PP",
+        "Quantidade": "2",
+        "Código SAP": "1143209"
     }
 ]
