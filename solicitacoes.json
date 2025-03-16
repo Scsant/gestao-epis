@@ -1241,5 +1241,16 @@
         "Descrição": "CAMISA UNIFORME GG, PALMILHA 43",
         "Quantidade": "2, 1",
         "Código SAP": "1143270, 1127555"
+    },
+    {
+        "Nome": "SOCRATES",
+        "Equipe (BTF)": "BTF4",
+        "Função": "Motorista",
+        "Frota": "Frota Leste",
+        "Matrícula": "37009201",
+        "Tipo": "CAMISA",
+        "Descrição": "CAMISA UNIFORME G",
+        "Quantidade": "1",
+        "Código SAP": "1143249"
     }
 ]
