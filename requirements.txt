@@ -1,8 +1,9 @@
-streamlit
+streamlit>=1.30.0
 streamlit-option-menu
-supabase-py
+supabase==1.0.3
 python-dotenv
 pandas
 openpyxl
 xlsxwriter
 plotly
+
