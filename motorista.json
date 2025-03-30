@@ -15139,5 +15139,40 @@
         "Matrícula": 37015357.0,
         "Função": "Motorista",
         "Nome": "Michael Emanuel da Anunciação"
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Matrícula": 3701980.0,
+        "Função": "Motorista",
+        "Nome": "Erisvaldo Sousa Amaral "
+    },
+    {
+        "Frota": "Frota Oeste",
+        "Equipe": "BTF7",
+        "Matrícula": 37019180.0,
+        "Função": "Motorista",
+        "Nome": "Erisvaldo Sousa Amaral "
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF3",
+        "Matrícula": 37020840.0,
+        "Função": "Motorista",
+        "Nome": "Luiz Jose Pereira"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF6",
+        "Matrícula": 37020293.0,
+        "Função": "Motorista",
+        "Nome": "João Vicente"
+    },
+    {
+        "Frota": "Frota Leste",
+        "Equipe": "BTF6",
+        "Matrícula": 37020293.0,
+        "Função": "Motorista",
+        "Nome": "João Vicente"
     }
 ]
